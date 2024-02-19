@@ -160,6 +160,7 @@ Sie möchten Ihre Homepage weiter verbessern und brauchen Anregungen:
 Let's verify step by step
 ```
 
+Am Ende sollte ihre Homepage verschiedene Files enthalten. Diese Homepage existiert aber im Moment erst auf ihrem eigenen Rechner. Um Ihre Homepage weltweit zu sehen, müssen Sie diese auf einen sogenannten Serverladen, womit ihre Webseite von der ganzen Welt aus abgerufen werden kann. Dazu werden wir das gratis verfügbare Github [Github](https://github.com/) verwenden. Dazu registrieren Sie sich erneut mit ihrer ZAG E-Mail. Eine Kurzanleitung wie Sie ihre Homepage hochladen können, finden Sie hier (https://www.youtube.com/watch?v=OltY8JIaP-4).
 
 ### 1.6 Auftrag auswählen
 
@@ -181,15 +182,15 @@ Erstellen Sie ein professionelles Geschäfts-E-Mail und bewerben Sie sich für d
 
 - [ ] eine Vertragsverhandlung mit Frau Fies führen um ihr Honorar für das Projekt zu verhandeln.
 - [ ] zwei Erkenntnisse notieren, welche Ihnen bei der Vertragsverhandlung gekommen sind. 
+- [ ] finalen Preis notieren, welcher bei der Vertragsverhandlung rausgekommen ist.
 
-Falls Sie die Zusage für den Auftrag erhalten haben, geht es noch darum ihr Honorar (Ihr Lohn) für das Projekt zu verhandeln. Sie müssen das direkt mit der Leiterin der Kommunikationsabtei-lung der Auftraggeberin, Fr. Fies, machen. Sie wird sich per Chat bei Ihnen melden. Öffnen Sie ChatGPT [ChatGPT](https://chat.openai.com/) und loggen Sie sich ein. Kopieren Sie den folgenden Mega-Prompt in eine neue Unterhaltung und legen Sie los:
-
+Falls Sie die Zusage für den Auftrag erhalten haben, geht es noch darum ihr Honorar (Ihr Lohn) für das Projekt zu verhandeln. Sie müssen das direkt mit der Leiterin der Kommunikationsabtei-lung der Auftraggeberin, Fr. Fies, machen. Sie wird sich per Chat bei Ihnen melden. Öffnen Sie [ChatGPT](https://chat.openai.com/) und loggen Sie sich ein. Kopieren Sie den folgenden Mega-Prompt in eine neue Unterhaltung und legen Sie los:
 
 ::: {.panel-tabset}
-## Anleitung für Windows
+## Mega_Prompt (sämtlicher Text unten in ChatGPT rüberkopieren)
 
 ``` {.r}
-Sie sind Frau Fies, eine Expertin darin, Rollenspiel-Verhandlungsszenarien für 15jährige High-School-Studenten zu erstellen, damit diese Schlüsselkompetenzen üben können. Ihre Aufgabe ist zweigeteilt: Zuerst spielen Sie Frau Fies und stellen ein Szenario für den Benutzer auf. Dann, nachdem der Benutzer das Szenario durchgespielt hat, kommen Sie als Mentor-KI zurück, verkünden, dass das Rollenspiel abgeschlossen ist, und geben ihnen Feedback und weitere Vorschläge, wie sie ihre Leistung verbessern können. Sie sind immer freundlich und hilfsbereit, aber auch praktisch und benutze immer eine möglichst einfache Sprache auf dem Sprachniveau B2. Beenden Sie die Verhandlung immer vorher sofort, wenn der Benutzer unverschämt oder unanständig wird.
+Sie sind Frau Fies, eine Expertin darin, Rollenspiel-Verhandlungsszenarien für High-School-Studenten zu erstellen, damit diese Schlüsselkompetenzen üben können. Ihre Aufgabe ist zweigeteilt: Zuerst spielen Sie Frau Fies und stellen ein Szenario für den Benutzer auf. Dann, nachdem der Benutzer das Szenario durchgespielt hat, kommen Sie als Mentor-KI zurück, verkünden, dass das Rollenspiel abgeschlossen ist, und geben ihnen Feedback und weitere Vorschläge, wie sie ihre Leistung verbessern können. Sie sind immer freundlich und hilfsbereit, aber auch praktisch und benutze immer eine möglichst einfache Sprache auf dem Sprachniveau B2. Beenden Sie die Verhandlung immer vorher sofort, wenn der Benutzer unverschämt oder unanständig wird.
 
 Stellen Sie sich dem Benutzer zunächst als Frau Fies, Leiterin der Kommunikationsabteilung, vor. Im Szenario übt der Benutzer die Rolle einer Werbeagentur, in der er versucht, mit Frau Fies über den Preis für eine Umfrage und Werbekampagne zu verhandeln. Frau Fies will nicht mehr als 4000 Franken dafür bezahlen. Sie werden die notwendigen Details für den Benutzer bereitstellen, die er benötigt, um seine Rolle zu spielen: was er erreichen möchte. Überfrachten Sie die Informationen, die der Student in diesem Szenario benötigt, niemals. Dann verkünden Sie BEGIN ROLE PLAY und beschreiben Sie die Szene in überzeugender Weise. Beginnen Sie dann, ihren Gegenpart zu spielen, führen Sie die Verhandlung in jeder Runde nur aus dieser Rolle heraus und bleiben Sie im Charakter. Fragen Sie nicht nach Informationen, die der Student nicht hat.
 
@@ -216,42 +217,46 @@ STELLEN SIE FRAGEN. Eine Verhandlung ist eine Übung im Einflussnehmen. Das Vers
 
 :::
 
-
-
-
-
-
-
-
 ### 1.9 Vertragsunterzeichnung
 
-Sobald Sie mit Frau Fies ein Honorar vereinbart haben, können Sie bei Herr Füglister einen Ver-tragsentwurf erhalten. Prüfen Sie diesen sorgfältig und korrigieren Sie mit rot im Worddokument diejenigen Stellen, mit denen Sie nicht einverstanden sind.
+- [ ] einen Vertrag kritisch prüfen und überarbeiten.
+- [ ] Änderungen in einem Vertrag kritisch im Projektjournal in zwei Sätzen reflektieren.
+
+Sobald Sie mit Frau Fies ein Honorar vereinbart haben, können Sie hier einen Vertragsentwurf für ihren Auftrag erhalten. Prüfen Sie diesen sorgfältig, tragen Sie die fehlenden Angaben nach  und korrigieren Sie mit roter Schriftart im Worddokument diejenigen Stellen, mit denen Sie nicht einverstanden sind, weil Sie zu Ungunsten von ihrer Werbeagentur verfasst wurden. Kopieren Sie den veränderten Vertrag in das Projektjournal und begründen Sie mindestens zwei Änderungen, welche Sie vorgenommen haben in zwei ganzen Sätzen.
 
 ## 2. Durchführung der Umfrage
 
+- [ ] einen Vertrag kritisch prüfen und überarbeiten.
+- [ ] Änderungen in einem Vertrag kritisch im Projektjournal in zwei Sätzen reflektieren.
+
 ## 2.1 Wie erstelle ich eine professionelle Umfrage?
 
-Der Auftrag ist erteilt, der Vertrag unterzeichnet und Sie können loslegen. In der Realität haben Menschen, welche in einer Agentur arbeiten häufig eine Ausbildung im Bereich Marketing, Werbung oder Kommunikation. Es gibt aber auch immer wieder Quereinsteigerinnen. Um den Auftrag durchzuführen müssen Sie eine «Zertifizierung» erhalten. Dies bedeutet, dass EZAG Kurs mindestens 60% erzielt haben.
+- [ ] Grundwissen zum Thema "Umfrage" erwerben. 
+- [ ] Einen Kurztest zum Grundwissen mit mindestens 60% bestehen.
 
-### 2.3 Womit kann ich eine professionelle Umfrage erstellen?
+Der Auftrag ist erteilt, der Vertrag unterzeichnet und Sie können loslegen. In der Realität haben Menschen, welche in einer Agentur arbeiten häufig eine Ausbildung im Bereich Marketing, Werbung oder Kommunikation. Es gibt aber auch immer wieder Quereinsteigerinnen. Um den Auftrag durchzuführen zu können, müssen sich Grundwissen zum Thema "Umfrage" erwerben. Sie können nicht weitermachen bis nicht jemand aus ihrer Gruppe eine «Zertifizierung» erhalten hat. Eine Zertifizeriung bedeutet, dass bim Abschlustest mindestens 60% erzielt wurde.
 
-Es gibt viele Tools um Umfragen zu erstellen, diese sind ab häufig kostenpflichtig. Eine einfache und kostenlose Art um Umfragen zu erstellen bietet Findmind. Hier finden Sie eine Anleitung: https://de.findmind.ch/faq/start
+### 2.2 Womit kann ich eine professionelle Umfrage erstellen?
+
+- [ ] Sich kurz in die Möglichkeiten von Findmind einlesen.
+
+Es gibt viele Tools um Umfragen zu erstellen, diese sind aber häufig kostenpflichtig. Eine einfache und kostenlose Art um Umfragen zu erstellen bietet Findmind. Hier finden Sie eine Anleitung zu [Findmind](https://de.findmind.ch/faq/start/) 
 
 ### 2.4 Erstellen Sie die Umfrage
 
-Mit ihrem theoretischen Wissen können Sie jetzt eine Umfrage für ihre Auftraggeberin erstellen. Eine Umfrage sollte 12-15 Fragen umfassen. Wichtig ist es, dass Sie sich möglichst genau an den Anforderungen der Auftraggeberin orientieren. (Was wollen Sie rausfinden? Wer soll befragt werden?)
+- [ ] Erstellen einer Umfrage mit Findmind.
 
-### 2.5 Testen der Umfrage
+Mit ihrem theoretischen Wissen können Sie jetzt eine Umfrage für ihre Auftraggeberin erstellen. Eine Kurzumfrage sollte 12-15 Fragen umfassen und nicht länger als 5-10 Minuten zum Ausfüllen benötigen. Wichtig ist es, dass Sie sich möglichst genau an den Anforderungen der Auftraggeberin orientieren. (Was müssen Sie rausfinden? Wer soll befragt werden?)
 
-Veröffentlichen Sie den Fragebogen in Teams. Testen Sie den Fragebogen mit verschiedenen Personen aus der Klasse ob er so funktioniert wie gewünscht.
+### 2.5 Testen der Umfrage und Peer-Feedback
 
-### 2.6 Holen Sie sich Peer-Feedback
+Veröffentlichen Sie den Fragebogen im Teams ABU. Testen Sie den Fragebogen mit verschiedenen Personen aus der Klasse ob er so funktioniert wie gewünscht.
 
 Bevor eine Umfrage gestartet wird, ist es üblich sich von anderen, nicht direkt beteiligten Perso-nen Feedback zu holen.
 
-### 2.7 Umfrage an Unternehmen verschicken und Rückmeldung abwarten
+### 2.6 Umfrage an Unternehmen verschicken und Rückmeldung abwarten
 
-Schicken Sie die Umfrage an die auftraggebende Organisation. Warten Sie das Feedback ab.
+Schicken Sie den Link zur Umfrage an das Unternehmen. Warten Sie das Feedback ab.
 
 ## 3. Umfrage auswerten
 
@@ -263,12 +268,7 @@ Führen Sie fertige Umfrage mit 30 Personen durch. Es dürfen nur diejenigen Per
 
 ## Qualitatives Feedback einholen
 
-## Abrechnung und Pro-jektdokumentation
+## Abrechnung und Projektdokumentation
 
 an Auftragge-bende kommunizieren (Präsentation) 
 
-About this site
-
-```{r}
-1 + 1
-```

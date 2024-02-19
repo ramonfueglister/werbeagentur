@@ -228,7 +228,7 @@ Sobald Sie mit Frau Fies ein Honorar vereinbart haben, können Sie hier einen Ve
 - [ ] einen Vertrag kritisch prüfen und überarbeiten.
 - [ ] Änderungen in einem Vertrag kritisch im Projektjournal in zwei Sätzen reflektieren.
 
-## 2.1 Wie erstelle ich eine professionelle Umfrage?
+### 2.1 Wie erstelle ich eine professionelle Umfrage?
 
 - [ ] Grundwissen zum Thema "Umfrage" erwerben. ⌚ 45min  
 - [ ] Einen Kurztest zum Grundwissen mit mindestens 60% bestehen. ⌚ 10min 
@@ -286,11 +286,25 @@ Führen Sie fertige Umfrage mit 30 Personen durch. Es dürfen nur diejenigen Per
 
 ## 3. Umfrage auswerten
 
-### 3.1 Resultate auswerten
+### 3.1 Resultate aufbereiten
 
-### 3.2 Resultate aufbereiten
+- [ ] Fähigkeit, Daten zu analysieren und Schlussfolgerungen zu ziehen.
 
-### 3.3 Resultate präsentieren
+Stellen Sie sicher, dass alle Umfrageergebnisse gesammelt wurden. Überprüfen Sie die Daten auf Vollständigkeit und Korrektheit. Entfernen Sie ungültige oder unvollständige Antworten.Analysieren Sie die Daten, um Trends, Muster oder auffällige Ergebnisse zu identifizieren.
+Entscheiden Sie, welche Art von Diagrammen oder Grafiken (z.B. Balkendiagramme, Tortendiagramme, Liniendiagramme) aus Findmind am besten geeignet sind, um die Ergebnisse darzustellen. Stellen Sie die Ergebnisse in den Kontext der ursprünglichen Fragestellungen der Umfrage. Erklären Sie, was die Ergebnisse bedeuten und warum sie wichtig sind.
+
+### 3.1 Resultate präsentieren
+
+- [ ] Erstellen Sie eine Präsentation von 6 Minuten, welche 6 Folien umfasst und die Fragestellung des Unternehmens beantwortet.
+- [ ] Präsentieren Sie Ihre Resultate vor dem Unternehmen.
+
+Sie müssen Ihre Resultate in einer stimmigen Präsentation dem Unternehmen präsentieren. Die Präsentation darf maximal 6 Minuten dauern und 6 Folien umfassen. Beginnen Sie mit einer Einführung in das Projekt und die Ziele der Umfrage. Führen Sie dann die wichtigsten Ergebnisse auf und enden Sie mit einer Zusammenfassung und möglichen Empfehlungen. Nutzen Sie die erstellten Diagramme und Grafiken, um Ihre Punkte visuell zu unterstützen.Üben Sie die Präsentation, um sicherzustellen, dass die Botschaft klar und überzeugend übermittelt wird. Achten Sie auf eine klare Sprache und eine logische Struktur.
+
+Praktische Tipps:
+
+- Legen Sie einen Fokus auf die Geschichte, die die Daten erzählen. Was ist die Hauptbotschaft, die Sie vermitteln möchten?
+- Betonen Sie die Bedeutung der Ergebnisse für den Auftraggeber und mögliche nächste Schritte.
+- Bereiten Sie sich auf Fragen vor und denken Sie über mögliche Einwände oder alternative Interpretationen der Daten nach.
 
 ## 4. Richtig Werben  
 
@@ -299,6 +313,7 @@ Führen Sie fertige Umfrage mit 30 Personen durch. Es dürfen nur diejenigen Per
 
 
 ## Abrechnung und Projektdokumentation
+
 
 
 

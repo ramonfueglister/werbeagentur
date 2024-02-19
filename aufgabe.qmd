@@ -1,0 +1,238 @@
+---
+title: "Aufgabe"
+eval: false
+---
+
+In den nächsten Wochen übernehmen Sie die zu dritt die Rolle einer Social-Media/Marketing Agentur und müssen selbständig ein Projekt für eine Auftraggeberin durchführen.
+
+## 1. Agentur gründen und Auftrag erhalten
+
+### 1.1 Gruppe bilden
+
+- [ ] Sämtliche Lernende in der Klasse gehören einer Gruppe an.
+
+Schliessen Sie sich zu Gruppen von zwei oder maximal drei Personen zusammen (KEINE Vierergruppe).
+
+### 1.2 Was macht eine Social Media/Werbeagentur?
+
+- [ ] Bescheid wissen, was eine Socia-Media/Marketing Agentur macht.
+
+Schauen Sie sich das Videos über den Tagesablauf von Viet Pham Tuan, Gründer einer Social-Media/Marketing an. Wie sieht sein Tagesablauf aus?
+
+```{r}
+"Du bist jetzt ein Marketing und Social-Media Experte. Erkläre mir möglichst einfach und klar was eine Social-Media/Marketing Agentur macht. Zielgruppe sind 16jährige Lernende. Let's verify step by step."
+```
+
+### 1.3 Wie heisst ihre Agentur?
+
+- [ ] Einen passenden Namen für die eigenen Agentur finden.
+- [ ] Begründen Sie 2-3 ganzen Sätzen im Reflexionsjournal wieso Sie den Namen ausgewählt haben.
+
+Wählen Sie einen passenden Namen für ihre Social Media/Werbeagentur. Der Name sollte frisch, spannend und kreativ sein sowie Ihre Identität als Gruppe/Agentur ausdrücken. Sie können sich dabei durch ChatGPT unterstützen lassen. Unten finden Sie eine möglichen Prompt (Eingabe), welche Sie verwenden können. Experimentieren Sie mit dem Prompt und denken Sie daran, dass Sie ihre Auswahl auch begründen müssen. 
+
+```{r}
+"Du bist jetzt ein Marketing Experte. Erstelle uns passende Namen für eine neue Werbeagentur. Uns ist besonders wichtig, unsere Stärken sind, dass wir besonders gute Teamplayer sind. Let's verify step by step."
+```
+
+### 1.4 Designen Sie ein Logo für Ihre Agentur
+
+- [ ] Designen Sie ein Logo für Ihre Agentur.
+- [ ] Begründen Sie 1-2 ganzen Sätzen im Reflexionsjournal wieso Sie den Namen ausgewählt haben.
+
+Designen Sie ein Logo. Sie können das Logo entweder selber gestalten oder mit dem folgenden Tool (Zur Registrierung können Sie Ihre ZAG E-Mail Adresse verwenden: https://app.logodiffusion.com/register ). Speichern Sie das Logo ab. Es muss professionell aussehen. Ein Tutorial dazu finden Sie unter:
+\
+{{< video https://www.youtube.com/watch?v=Z3FNhU_zX2w >}} \
+
+```{r}
+"Du bist jetzt ein Marketing Experte. Unsere Werbeagentur heisst HierstehtderNameihrerWerbeagentur. Wie könnte ein mögliches Logo ausschauen? Beschreibe das Logo möglichst genau und begründe die Auswahl des Logos ausführlich. Let's verify step by step."
+```
+
+### 1.5 Erstellen Sie eine neue Homepage für Ihre Agentur 
+
+- [ ] Grundkenntnisse in HTML erwerben. 
+- [ ] Eine erste Homepage mit den folgenden Seiten erstellen: Startseite mit Begrüssung und Logo, unser Team, unsere Leistungen.
+- [ ] Eigene Homepage auf Github hochladen.
+- [ ] Probleme und Erfolgserlebnisse im Projektjournal in 3-4 Sätzen aufgeschrieben.
+- [ ] Über meinen Erwartungen: Eigene Homepage wird mit CSS, Webframeworks interaktiv gemacht und/oder zeichnet sich durch ein besonders gelungenes Layout/Code aus.
+
+Homepages sind ein wichtiges Aushängeschild für jedes Unternehmen. Deshalb ist es sehr wichtig, dass auch ihre Agentur nicht nur ein Logo hat, sondern auch eine eigene Homepage. Homepages sind in der einfachsten Form nicht viel anderes als Textseiten, welche mit zusätzlichen Auszeichnungen versehen werden, um beispielsweise eine Schrift fett darzustellen oder ein Wort als Titel festzulegen. Eine solche Auszeichnung ("Tag", erkennbar an <> und dem abschliessenden </>) kann beispielsweise <br></br> sein. Alles was zwischen den Tags <br> </br> steht wird automatisch fett geschrieben.Diese Sammlung von Auszeichnungen stellt eine eigene Sprache dar und heisst HTML. Eine erste HTML-Textseite haben Sie schnell erstellt:
+
+::: {.panel-tabset}
+## Anleitung für Windows
+
+``` {.r}
+
+Schritt 1: Öffnen des Texteditors
+Klicken Sie auf das Startmenü in Windows. Geben Sie "Notepad" ein (das ist der Name des Texteditors in Windows). Klicken Sie auf das Notepad-Symbol, um den Editor zu öffnen.
+
+Schritt 2: Schreiben des HTML-Codes
+In Notepad geben Sie nun Ihren HTML-Code ein. Hier ist ein sehr einfaches Beispiel für eine Homepage. Kopieren Sie sämtlichen Code von <!DOCTYPE html> bis zu <html> in ihr Notepad-Dokument.
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Meine erste Homepage</title>
+</head>
+<body>
+    <h1>Willkommen auf meiner Homepage</h1>
+    <p>Dies ist ein Paragraph mit ein wenig Text. Willkommen!</p>
+</body>
+</html>
+
+Schritt 3: Speichern der HTML-Datei
+Klicken Sie in Notepad auf "Datei" in der oberen Menüleiste.
+Wählen Sie "Speichern unter...".
+Wählen Sie einen Ort, an dem Sie Ihre Datei speichern möchten.
+Geben Sie der Datei einen Namen, gefolgt von .html (z.B. meine-homepage.html).
+Wählen Sie als "Dateityp" die Option "Alle Dateien (.)".
+Klicken Sie auf "Speichern".
+
+Schritt 4: Anzeigen der Homepage in einem Webbrowser
+Navigieren Sie zu dem Ort, an dem Sie Ihre HTML-Datei gespeichert haben.
+Machen Sie einen Doppelklick auf die Datei. Sie sollte sich nun in Ihrem Standard-Webbrowser öffnen und Ihre Homepage anzeigen.
+
+Schritt 5: Bearbeiten Ihrer Homepage
+Sie können jederzeit zu Notepad zurückkehren, Änderungen an Ihrem HTML-Code vornehmen, die Datei erneut speichern und die Seite in Ihrem Browser aktualisieren, um die Änderungen zu sehen.
+```
+
+## Anleitung für Mac
+
+``` {.r}
+Schritt 1: Öffnen von TextEdit
+Öffnen Sie Finder und navigieren Sie zu Ihrer Anwendungsliste oder nutzen Sie Spotlight (⌘ + Leertaste), um nach "TextEdit" zu suchen.
+Starten Sie TextEdit.
+Schritt 2: Einstellen von TextEdit für die Bearbeitung von reinem Text
+Da TextEdit standardmäßig Texte mit Formatierung (wie in Word) bearbeitet, müssen Sie es auf die Bearbeitung von reinem Text umstellen, um HTML-Code ordnungsgemäß zu schreiben:
+
+Öffnen Sie TextEdit.
+Gehen Sie in der Menüleiste zu "TextEdit" > "Einstellungen...".
+Unter dem Tab "Neues Dokument" stellen Sie sicher, dass "Reiner Text" ausgewählt ist.
+Schließen Sie die Einstellungen.
+Schritt 3: Schreiben des HTML-Codes
+Erstellen Sie ein neues Dokument und geben Sie Ihren HTML-Code ein. Hier ist ein einfaches Beispiel:
+
+html
+Copy code
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Meine erste Homepage</title>
+</head>
+<body>
+    <h1>Willkommen auf meiner Homepage</h1>
+    <p>Dies ist ein Paragraph mit ein wenig Text. Willkommen!</p>
+</body>
+</html>
+Schritt 4: Speichern der HTML-Datei
+Wählen Sie in TextEdit "Ablage" > "Speichern unter...".
+Geben Sie Ihrer Datei einen Namen und fügen Sie die Endung .html hinzu (zum Beispiel meine-homepage.html).
+Wählen Sie den Ort, an dem Sie die Datei speichern möchten.
+Im Feld "Format" wählen Sie "reinen Text".
+Stellen Sie sicher, dass die Option "Wenn kein Suffix angegeben ist, automatisch '.txt' anfügen" nicht ausgewählt ist, oder entfernen Sie, falls vorhanden, das automatisch angefügte .txt nach dem Speichern manuell.
+Klicken Sie auf "Sichern".
+Schritt 5: Anzeigen Ihrer Homepage in einem Webbrowser
+Finden Sie die gespeicherte HTML-Datei im Finder.
+Machen Sie einen Doppelklick auf die Datei oder klicken Sie mit der rechten Maustaste darauf und wählen Sie "Öffnen mit", dann Ihren bevorzugten Webbrowser. Ihre Homepage sollte nun in Ihrem Browser angezeigt werden.
+Schritt 6: Bearbeiten Ihrer Homepage
+Um Ihre Homepage zu bearbeiten, öffnen Sie einfach die HTML-Datei erneut in TextEdit, nehmen Sie Ihre Änderungen vor und speichern Sie die Datei. Aktualisieren Sie dann die Seite in Ihrem Browser, um die Änderungen zu sehen.
+```
+
+:::
+
+Hier sehen Sie, dass beispielsweise der Tag 'h1' einen Text als Titel auszeichnet. Eine solche Homepage ist aber noch recht anspruchslos. Eine Homepage hat häufig mehrere Seiten, Bilder und ist mit einander über sogenannte Links verbunden. Eine Anleitung wie man komplexere Homepages baut finden Sie unter: https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg. Natürlich können Sie sich auch wieder bei ChatGPT Hilfe holen. Hier ein paar Ideen. Hier können Sie sich den Beispielcode für eine Startseite ausgeben lassen:
+
+```{r}
+"Du bist jetzt ein Webprogrammierer.Wir möchte eine Startseite in HTML bauen. Gib bi mir den Code für eine Startsaeite aus und kommentiere ausführlich. Let's verify step by step."
+```
+
+Sie wissen nicht wie etwas im HTML-Code funktioniert. Fragen Sie nach:
+
+```{r}
+"Du bist jetzt ein Webprogrammierer.Wie erstelle ich einen Link in HTML?. Let's verify step by step"
+```
+
+Sie möchten Ihre Homepage weiter verbessern und brauchen Anregungen:
+
+```{r}
+"Du bist jetzt ein Webprogrammierer.Ich möchte unsere Homepage schöner machen. Wie könnte ich das machen. Hier ist der Code:...
+Let's verify step by step
+```
+
+
+### 1.6 Auftrag auswählen
+
+- [ ] Sie wählen ein Unternehmen und den dazugehörigen Auftrag aus.
+- [ ] Sie begründen 2-3 ganzen Sätzen in ihrem Projektjournal wieso gerade dieses Unternehmen ausgewählt haben. 
+- [ ] Sie notieren in ihrem Projektjournal stichwortartig was die genauen Anforderungen des Unternehmens sind (Auftrag).
+- [ ] Sie notieren in ihrem Projektjournal stichwortartig was die genauen Anforderungen des Unternehmens haben.
+
+Nachdem Sie ein Logo erstellt haben und eine professionelle Homepage haben, sind Sie startklar für ihren ersten Auftrag. Auf Social Media sind sie auf folgende Kontakte von Unternehmen gestossen. Wählen Sie eines der folgenden Unternehmen mit dem entsprechenden Auftrag aus und schauen Sie das dazugehörige Video an. Machen Sie sich klar was genau die Anforderungen des Auftrags sind:
+
+
+
+
+
+
+### 1.7 Bewerbung für den Auftrag schreiben
+
+- [ ] Sie bewerben sich professionell 
+
+Erstellen Sie ein professionelles Geschäfts-E-Mail und bewerben Sie sich für den Auftrag beim entsprechenden Unternehmen. In ihrem E-Mail beschreiben Sie gan kurz ihre Motivation, ihre Kenntnisse für den Auftrag und gehen Sie auf die genauen Bedürfnisse der Auftraggeberin ein. Stellen Sie sich ausserdem professionell in einem 1-minütigen Elevator-Pitch als Team vor. Ein Elevator Pitch ist eine kurze, prägnante Präsentation einer Idee, die innerhalb der Dauer einer Fahrstuhlfahrt (daher der Name "Elevator" für Fahrstuhl und "Pitch" für Verkaufsgespräch) überzeugend dargelegt wird, typischerweise in 30 Sekunden bis 2 Minuten. Das Ziel ist es, das Interesse des Zuhörers zu wecken, sei es ein potenzieller Kunde, Investor oder Partner, um eine weiterführende Diskussion oder ein Meeting zu erreichen. Ihr Elevatorpitch kann folgende folgende Elemente enthalten: Wer sind wir, Stärken der Personen, unsere Vision, wieso wir für die Firma arbeiten wollen. Der Elevator Pitch muss zusätzlich an das E-Mail angehängt werden. Senden Sie das E-Mail an ramon.fueglister(ät)zag.zh.ch . Ich werde dann so antworten wie ich denke, dass die Person, die Sie angeschrieben haben, antworten würde.
+
+### 1.8 Vertragsverhandlungen
+
+Falls Sie die Zusage für den Auftrag erhalten haben, geht es noch darum ihr Honorar (Ihr Lohn) für das Projekt zu verhandeln. Sie müssen das direkt mit der Leiterin der Kommunikationsabtei-lung der Auftraggeberin, Fr. Fies, machen. Sie wird sich per Chat bei Ihnen melden. Klicken Sie auf den folgenden Link um ein Gespräch mit ihr zu führen:
+
+
+
+### 1.9 Vertragsunterzeichnung
+
+Sobald Sie mit Frau Fies ein Honorar vereinbart haben, können Sie bei Herr Füglister einen Ver-tragsentwurf erhalten. Prüfen Sie diesen sorgfältig und korrigieren Sie mit rot im Worddokument diejenigen Stellen, mit denen Sie nicht einverstanden sind.
+
+## 2. Durchführung der Umfrage
+
+## 2.1 Wie erstelle ich eine professionelle Umfrage?
+
+Der Auftrag ist erteilt, der Vertrag unterzeichnet und Sie können loslegen. In der Realität haben Menschen, welche in einer Agentur arbeiten häufig eine Ausbildung im Bereich Marketing, Werbung oder Kommunikation. Es gibt aber auch immer wieder Quereinsteigerinnen. Um den Auftrag durchzuführen müssen Sie eine «Zertifizierung» erhalten. Dies bedeutet, dass EZAG Kurs mindestens 60% erzielt haben.
+
+### 2.3 Womit kann ich eine professionelle Umfrage erstellen?
+
+Es gibt viele Tools um Umfragen zu erstellen, diese sind ab häufig kostenpflichtig. Eine einfache und kostenlose Art um Umfragen zu erstellen bietet Findmind. Hier finden Sie eine Anleitung: https://de.findmind.ch/faq/start
+
+### 2.4 Erstellen Sie die Umfrage
+
+Mit ihrem theoretischen Wissen können Sie jetzt eine Umfrage für ihre Auftraggeberin erstellen. Eine Umfrage sollte 12-15 Fragen umfassen. Wichtig ist es, dass Sie sich möglichst genau an den Anforderungen der Auftraggeberin orientieren. (Was wollen Sie rausfinden? Wer soll befragt werden?)
+
+### 2.5 Testen der Umfrage
+
+Veröffentlichen Sie den Fragebogen in Teams. Testen Sie den Fragebogen mit verschiedenen Personen aus der Klasse ob er so funktioniert wie gewünscht.
+
+### 2.6 Holen Sie sich Peer-Feedback
+
+Bevor eine Umfrage gestartet wird, ist es üblich sich von anderen, nicht direkt beteiligten Perso-nen Feedback zu holen.
+
+### 2.7 Umfrage an Unternehmen verschicken und Rückmeldung abwarten
+
+Schicken Sie die Umfrage an die auftraggebende Organisation. Warten Sie das Feedback ab.
+
+## 3. Umfrage auswerten
+
+Führen Sie fertige Umfrage mit 30 Personen durch. Es dürfen nur diejenigen Personen die Um-frage durchführen, welche auch in die Zielgruppe gehören. Es dürfen keine Kolleginnen aus der Klasse die Umfrage ausführen.
+
+## Resultate kommunizieren
+
+## Werbung für Zielgruppe erstellen
+
+## Qualitatives Feedback einholen
+
+## Abrechnung und Pro-jektdokumentation
+
+an Auftragge-bende kommunizieren (Präsentation) 
+
+About this site
+
+```{r}
+1 + 1
+```

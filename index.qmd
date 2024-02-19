@@ -1,0 +1,19 @@
+t---
+title: "ph-workshop"
+---
+
+T
+
+[T](about.qmd)
+
+[T](about.qmd)
+
+his is a Quarto website.
+
+https://www.youtube.com/playlist?list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```

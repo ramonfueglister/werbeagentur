@@ -7,15 +7,15 @@ In den nächsten Wochen übernehmen Sie die zu dritt die Rolle einer Social-Medi
 
 ## 1. Agentur gründen und Auftrag erhalten
 
-### 1.1 Gruppe bilden
+### 1.1 Gruppe bilden 
 
-- [ ] Sämtliche Lernende in der Klasse gehören einer Gruppe an.
+- [ ] Sämtliche Lernende in der Klasse gehören einer Gruppe an. ⌚ 5min  
 
 Schliessen Sie sich zu Gruppen von zwei oder maximal drei Personen zusammen (KEINE Vierergruppe).
 
 ### 1.2 Was macht eine Social Media/Werbeagentur?
 
-- [ ] Bescheid wissen, was eine Socia-Media/Marketing Agentur macht.
+- [ ] Bescheid wissen, was eine Socia-Media/Marketing Agentur macht.⌚ 10min 
 
 Schauen Sie sich das Videos über den Tagesablauf von Viet Pham Tuan, Gründer einer Social-Media/Marketing an. Wie sieht sein Tagesablauf aus?
 
@@ -25,8 +25,8 @@ Schauen Sie sich das Videos über den Tagesablauf von Viet Pham Tuan, Gründer e
 
 ### 1.3 Wie heisst ihre Agentur?
 
-- [ ] Einen passenden Namen für die eigenen Agentur finden.
-- [ ] Begründen Sie 2-3 ganzen Sätzen im Reflexionsjournal wieso Sie den Namen ausgewählt haben.
+- [ ] Einen passenden Namen für die eigenen Agentur finden.⌚ 15min 
+- [ ] Begründen Sie 2-3 ganzen Sätzen im Reflexionsjournal wieso Sie den Namen ausgewählt haben.⌚ 5min 
 
 Wählen Sie einen passenden Namen für ihre Social Media/Werbeagentur. Der Name sollte frisch, spannend und kreativ sein sowie Ihre Identität als Gruppe/Agentur ausdrücken. Sie können sich dabei durch ChatGPT unterstützen lassen. Unten finden Sie eine möglichen Prompt (Eingabe), welche Sie verwenden können. Experimentieren Sie mit dem Prompt und denken Sie daran, dass Sie ihre Auswahl auch begründen müssen. 
 
@@ -36,8 +36,8 @@ Wählen Sie einen passenden Namen für ihre Social Media/Werbeagentur. Der Name 
 
 ### 1.4 Designen Sie ein Logo für Ihre Agentur
 
-- [ ] Designen Sie ein Logo für Ihre Agentur.
-- [ ] Begründen Sie 1-2 ganzen Sätzen im Reflexionsjournal wieso Sie den Namen ausgewählt haben.
+- [ ] Designen Sie ein Logo für Ihre Agentur. ⌚ 15min 
+- [ ] Begründen Sie 1-2 ganzen Sätzen im Reflexionsjournal wieso Sie den Namen ausgewählt haben. ⌚ 5min 
 
 Designen Sie ein Logo. Sie können das Logo entweder selber gestalten oder mit dem folgenden Tool (Zur Registrierung können Sie Ihre ZAG E-Mail Adresse verwenden: https://app.logodiffusion.com/register ). Speichern Sie das Logo ab. Es muss professionell aussehen. Ein Tutorial dazu finden Sie unter:
 \
@@ -49,10 +49,10 @@ Designen Sie ein Logo. Sie können das Logo entweder selber gestalten oder mit d
 
 ### 1.5 Erstellen Sie eine neue Homepage für Ihre Agentur 
 
-- [ ] Grundkenntnisse in HTML erwerben. 
-- [ ] Eine erste Homepage mit den folgenden Seiten erstellen: Startseite mit Begrüssung und Logo, unser Team, unsere Leistungen.
-- [ ] Eigene Homepage auf Github hochladen.
-- [ ] Probleme und Erfolgserlebnisse im Projektjournal in 3-4 Sätzen aufgeschrieben.
+- [ ] Grundkenntnisse in HTML erwerben. ⌚ 30min 
+- [ ] Eine erste Homepage mit den folgenden Seiten erstellen: Startseite mit Begrüssung und Logo, unser Team, unsere Leistungen. ⌚ 45min 
+- [ ] Eigene Homepage auf Github hochladen. ⌚ 15min 
+- [ ] Probleme und Erfolgserlebnisse im Projektjournal in 3-4 Sätzen aufgeschrieben. ⌚ 10min 
 - [ ] Über meinen Erwartungen: Eigene Homepage wird mit CSS, Webframeworks interaktiv gemacht und/oder zeichnet sich durch ein besonders gelungenes Layout/Code aus.
 
 Homepages sind ein wichtiges Aushängeschild für jedes Unternehmen. Deshalb ist es sehr wichtig, dass auch ihre Agentur nicht nur ein Logo hat, sondern auch eine eigene Homepage. Homepages sind in der einfachsten Form nicht viel anderes als Textseiten, welche mit zusätzlichen Auszeichnungen versehen werden, um beispielsweise eine Schrift fett darzustellen oder ein Wort als Titel festzulegen. Eine solche Auszeichnung ("Tag", erkennbar an <> und dem abschliessenden </>) kann beispielsweise <br></br> sein. Alles was zwischen den Tags <br> </br> steht wird automatisch fett geschrieben.Diese Sammlung von Auszeichnungen stellt eine eigene Sprache dar und heisst HTML. Eine erste HTML-Textseite haben Sie schnell erstellt:
@@ -162,27 +162,26 @@ Let's verify step by step
 
 Am Ende sollte ihre Homepage verschiedene Files enthalten. Diese Homepage existiert aber im Moment erst auf ihrem eigenen Rechner. Um Ihre Homepage weltweit zu sehen, müssen Sie diese auf einen sogenannten Serverladen, womit ihre Webseite von der ganzen Welt aus abgerufen werden kann. Dazu werden wir das gratis verfügbare Github [Github](https://github.com/) verwenden. Dazu registrieren Sie sich erneut mit ihrer ZAG E-Mail. Eine Kurzanleitung wie Sie ihre Homepage hochladen können, finden Sie hier (https://www.youtube.com/watch?v=OltY8JIaP-4).
 
-### 1.6 Auftrag auswählen
+### 1.6 Auftrag auswählen 
 
-- [ ] Ein Unternehmen und den dazugehörigen Auftrag auswählen.
-- [ ] in 2-3 ganzen Sätzen in ihrem Projektjournal begründen, wieso Sie gerade dieses Unternehmen ausgewählt haben. 
-- [ ] in ihrem Projektjournal stichwortartig erklären, was die genauen Anforderungen des Unternehmens sind (Auftrag).
-
+- [ ] Ein Unternehmen und den dazugehörigen Auftrag auswählen. ⌚ 10min 
+- [ ] in 2-3 ganzen Sätzen in ihrem Projektjournal begründen, wieso Sie gerade dieses Unternehmen ausgewählt haben. ⌚ 5min 
+- [ ] in ihrem Projektjournal stichwortartig erklären, was die genauen Anforderungen des Unternehmens sind (Auftrag). ⌚ 5min 
 
 Nachdem Sie ein Logo erstellt haben und eine professionelle Homepage haben, sind Sie startklar für ihren ersten Auftrag. Auf Social Media sind sie auf folgende Kontakte von Unternehmen gestossen. Wählen Sie eines der folgenden Unternehmen mit dem entsprechenden Auftrag aus und schauen Sie das dazugehörige Video an. Machen Sie sich klar was genau die Anforderungen des Auftrags sind.
 
 ### 1.7 Bewerbung für den Auftrag schreiben
 
-- [ ] sich professionell für den Auftrag beim Unternehmen ihrer Wahl bewerben
-- [ ] beim E-Mail ein kurzes Elevator-Pitch Video anfügen, welches Ihre Motivation und das Team der Werbeagentur vorstellt.
+- [ ] sich professionell für den Auftrag beim Unternehmen ihrer Wahl bewerben. ⌚ 20min 
+- [ ] beim E-Mail ein kurzes Elevator-Pitch Video anfügen, welches Ihre Motivation und das Team der Werbeagentur vorstellt. ⌚ 30min 
 
 Erstellen Sie ein professionelles Geschäfts-E-Mail und bewerben Sie sich für den Auftrag beim entsprechenden Unternehmen. In ihrem E-Mail beschreiben Sie gan kurz ihre Motivation, ihre Kenntnisse für den Auftrag und gehen Sie auf die genauen Bedürfnisse der Auftraggeberin ein. Stellen Sie sich ausserdem professionell in einem 1-minütigen Elevator-Pitch als Team vor. Ein Elevator Pitch ist eine kurze, prägnante Präsentation einer Idee, die innerhalb der Dauer einer Fahrstuhlfahrt (daher der Name "Elevator" für Fahrstuhl und "Pitch" für Verkaufsgespräch) überzeugend dargelegt wird, typischerweise in 30 Sekunden bis 2 Minuten. Das Ziel ist es, das Interesse des Zuhörers zu wecken, sei es ein potenzieller Kunde, Investor oder Partner, um eine weiterführende Diskussion oder ein Meeting zu erreichen. Ihr Elevatorpitch kann folgende folgende Elemente enthalten: Wer sind wir, Stärken der Personen, unsere Vision, wieso wir für die Firma arbeiten wollen. Der Elevator Pitch muss zusätzlich an das E-Mail angehängt werden. Senden Sie das E-Mail an ramon.fueglister(ät)zag.zh.ch . Ich werde dann so antworten wie ich denke, dass die Person, die Sie angeschrieben haben, antworten würde.
 
 ### 1.8 Vertragsverhandlungen
 
-- [ ] eine Vertragsverhandlung mit Frau Fies führen um ihr Honorar für das Projekt zu verhandeln.
-- [ ] zwei Erkenntnisse notieren, welche Ihnen bei der Vertragsverhandlung gekommen sind. 
-- [ ] finalen Preis notieren, welcher bei der Vertragsverhandlung rausgekommen ist.
+- [ ] eine Vertragsverhandlung mit Frau Fies führen um ihr Honorar für das Projekt zu verhandeln. ⌚ 20min   
+- [ ] zwei Erkenntnisse notieren, welche Ihnen bei der Vertragsverhandlung gekommen sind. ⌚ 5min  
+- [ ] finalen Preis notieren, welcher bei der Vertragsverhandlung rausgekommen ist. ⌚ 1min 
 
 Falls Sie die Zusage für den Auftrag erhalten haben, geht es noch darum ihr Honorar (Ihr Lohn) für das Projekt zu verhandeln. Sie müssen das direkt mit der Leiterin der Kommunikationsabtei-lung der Auftraggeberin, Fr. Fies, machen. Sie wird sich per Chat bei Ihnen melden. Öffnen Sie [ChatGPT](https://chat.openai.com/) und loggen Sie sich ein. Kopieren Sie den folgenden Mega-Prompt in eine neue Unterhaltung und legen Sie los:
 
@@ -219,56 +218,88 @@ STELLEN SIE FRAGEN. Eine Verhandlung ist eine Übung im Einflussnehmen. Das Vers
 
 ### 1.9 Vertragsunterzeichnung
 
-- [ ] einen Vertrag kritisch prüfen und überarbeiten.
-- [ ] Änderungen in einem Vertrag kritisch im Projektjournal in zwei Sätzen reflektieren.
+- [ ] einen Vertrag kritisch prüfen und überarbeiten. ⌚ 20min 
+- [ ] Änderungen in einem Vertrag kritisch im Projektjournal in zwei Sätzen reflektieren. ⌚ 5min 
 
 Sobald Sie mit Frau Fies ein Honorar vereinbart haben, können Sie hier einen Vertragsentwurf für ihren Auftrag erhalten. Prüfen Sie diesen sorgfältig, tragen Sie die fehlenden Angaben nach  und korrigieren Sie mit roter Schriftart im Worddokument diejenigen Stellen, mit denen Sie nicht einverstanden sind, weil Sie zu Ungunsten von ihrer Werbeagentur verfasst wurden. Kopieren Sie den veränderten Vertrag in das Projektjournal und begründen Sie mindestens zwei Änderungen, welche Sie vorgenommen haben in zwei ganzen Sätzen.
 
-## 2. Durchführung der Umfrage
+## 2. Umfrage durchführen
 
 - [ ] einen Vertrag kritisch prüfen und überarbeiten.
 - [ ] Änderungen in einem Vertrag kritisch im Projektjournal in zwei Sätzen reflektieren.
 
 ## 2.1 Wie erstelle ich eine professionelle Umfrage?
 
-- [ ] Grundwissen zum Thema "Umfrage" erwerben. 
-- [ ] Einen Kurztest zum Grundwissen mit mindestens 60% bestehen.
+- [ ] Grundwissen zum Thema "Umfrage" erwerben. ⌚ 45min  
+- [ ] Einen Kurztest zum Grundwissen mit mindestens 60% bestehen. ⌚ 10min 
 
 Der Auftrag ist erteilt, der Vertrag unterzeichnet und Sie können loslegen. In der Realität haben Menschen, welche in einer Agentur arbeiten häufig eine Ausbildung im Bereich Marketing, Werbung oder Kommunikation. Es gibt aber auch immer wieder Quereinsteigerinnen. Um den Auftrag durchzuführen zu können, müssen sich Grundwissen zum Thema "Umfrage" erwerben. Sie können nicht weitermachen bis nicht jemand aus ihrer Gruppe eine «Zertifizierung» erhalten hat. Eine Zertifizeriung bedeutet, dass bim Abschlustest mindestens 60% erzielt wurde.
 
-### 2.2 Womit kann ich eine professionelle Umfrage erstellen?
+### 2.2 Erstellen Sie die Umfrage in ihrem Projektjournal
 
-- [ ] Sich kurz in die Möglichkeiten von Findmind einlesen.
+- [ ] Erstellen von 12 bis 15 Fragen für eine Umfrage.⌚ 20min 
+
+Mit ihrem theoretischen Wissen können Sie jetzt eine Umfrage für ihre Auftraggeberin erstellen. Eine Kurzumfrage sollte 12-15 Fragen umfassen und nicht länger als 5-10 Minuten zum Ausfüllen benötigen. Wichtig ist es, dass Sie sich möglichst genau an den Anforderungen der Auftraggeberin orientieren. (Was müssen Sie rausfinden? Wer soll befragt werden?). Notieren Sie die Fragen erstmals in ihrem Projektjournal.
+
+### 2.3 Feedback einholen von ChatGPT
+
+- [ ] Feedback holen von ChatGPT ⌚ 5min 
+
+Überarbeiten Sie die Fragen mit ChatGPT mit dem folgenden Prompt. Sie müssen "Unternehmen X" ersetzen mit dem Unternehmen für welches Sie die Umfrage machen. Ausserdem müssen Sie "hier die Fragen einfügen" löschen und ihre Fragen einfügen.
+
+```{r}
+"Du bist jetzt ein Sozialwissenschaftler und Experte für die Erstellung von Umfragen. Wir sollen eine Umfrage für das Unternehmen X machen. Hier sind unsere Ideen für die Umfrage. Erstelle ein kurzes inhaltliches Feedback zu den einzelnen Fragen. Korrigiere anschliessend die folgenden Fragen inhaltlich und in der Rechtschreibung: - hier die Fragen einfügen
+Erstelle anschliessend 10 weitere äusserst professionelle Fragen für unsere Umfragen. Mache die Fragen sprachlich nicht zu kompliziert. Let's verify step by step."
+```
+
+### 2.4 Womit kann ich eine professionelle Umfrage erstellen?
+
+- [ ] Sich kurz in die Möglichkeiten von Findmind einlesen.⌚ 10min 
 
 Es gibt viele Tools um Umfragen zu erstellen, diese sind aber häufig kostenpflichtig. Eine einfache und kostenlose Art um Umfragen zu erstellen bietet Findmind. Hier finden Sie eine Anleitung zu [Findmind](https://de.findmind.ch/faq/start/) 
 
-### 2.4 Erstellen Sie die Umfrage
+### 2.5 Erstellen der Umfrage mit Findmind
 
-- [ ] Erstellen einer Umfrage mit Findmind.
+- [ ] Erstellen einer Umfrage mit Findmind. ⌚ 15min 
 
-Mit ihrem theoretischen Wissen können Sie jetzt eine Umfrage für ihre Auftraggeberin erstellen. Eine Kurzumfrage sollte 12-15 Fragen umfassen und nicht länger als 5-10 Minuten zum Ausfüllen benötigen. Wichtig ist es, dass Sie sich möglichst genau an den Anforderungen der Auftraggeberin orientieren. (Was müssen Sie rausfinden? Wer soll befragt werden?)
+Übertragen Sie die jetzt die Fragen in Findmind. Sie müssen sich dazu wiederum registrieren. 
 
-### 2.5 Testen der Umfrage und Peer-Feedback
+### 2.6 Testen der Umfrage und Peer-Feedback einholen
 
-Veröffentlichen Sie den Fragebogen im Teams ABU. Testen Sie den Fragebogen mit verschiedenen Personen aus der Klasse ob er so funktioniert wie gewünscht.
+- [ ] Testen der Umfrage mit 2 Lernenden aus der Klasse ⌚ 10min  
+- [ ] Feedbackformular für das Feedback von den 2 Lernenden ausfüllen lassen ⌚ 10min  
 
-Bevor eine Umfrage gestartet wird, ist es üblich sich von anderen, nicht direkt beteiligten Perso-nen Feedback zu holen.
+Bevor eine Umfrage gestartet wird, ist es üblich sich von anderen, nicht direkt beteiligten Personen Feedback zu holen. Veröffentlichen Sie deshalb die Umfrage in Findmind. Testen Sie den Fragebogen mit verschiedenen Personen aus der Klasse. ob er so funktioniert wie gewünscht. Lassen Sie am Ende das Feedbackformular ausfüllen. Scannen Sie Feedbackformular ein und fügen es in das Projektjournal ein.
 
 ### 2.6 Umfrage an Unternehmen verschicken und Rückmeldung abwarten
 
-Schicken Sie den Link zur Umfrage an das Unternehmen. Warten Sie das Feedback ab.
+- [ ] Professionelles E-Mail an das Unternehmen schicken und Rückmeldung abwarten.
+
+Schicken Sie den Link zur Umfrage an das Unternehmen. Warten Sie das Feedback des Unternehmens ab.
+
+
+### 2.6 Umfrage an Unternehmen verschicken und Rückmeldung abwarten
+
+- [ ] Umfrage durchführen 
+
+Führen Sie fertige Umfrage mit 30 Personen durch. Es dürfen nur diejenigen Personen die Um-frage durchführen, welche auch in die Zielgruppe gehören. Es dürfen keine Kolleginnen aus der Klasse die Umfrage ausführen. Denken Sie daran, dass die Umfrage ernsthaft ausgefüllt werden muss.  
 
 ## 3. Umfrage auswerten
 
-Führen Sie fertige Umfrage mit 30 Personen durch. Es dürfen nur diejenigen Personen die Um-frage durchführen, welche auch in die Zielgruppe gehören. Es dürfen keine Kolleginnen aus der Klasse die Umfrage ausführen.
+### 3.1 Resultate auswerten
 
-## Resultate kommunizieren
+### 3.2 Resultate aufbereiten
 
-## Werbung für Zielgruppe erstellen
+### 3.3 Resultate präsentieren
 
-## Qualitatives Feedback einholen
+## 4. Richtig Werben  
+
+## 4.1 
+   Als erstes 
+
 
 ## Abrechnung und Projektdokumentation
 
-an Auftragge-bende kommunizieren (Präsentation) 
+
+
 

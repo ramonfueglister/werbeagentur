@@ -4,6 +4,13 @@ eval: false
 ---
 
 In den nächsten Wochen übernehmen Sie die zu dritt die Rolle einer Social-Media/Marketing Agentur und müssen selbständig ein Projekt für eine Auftraggeberin durchführen.
+ 
+– die Arbeit für eine Dokumentation selbständig einteilen 
+– Termine und Vereinbarungen einhalten 
+– mit der eigenen Kreativität Freiräume im projektartigen Arbeiten gezielt und produktiv nutzen
+– ein Interview oder eine Umfrage planen und durchführen und die Ergebnisse auswerten 
+– Online-Tools zur Durchführung und Auswertung von Umfragen nutzen 
+– bestehende Dokumente als Vorlagen nutzen und das eigene Produkt gezielt digital ablegen
 
 ## 1. Agentur gründen und Auftrag erhalten
 
@@ -231,7 +238,7 @@ Sobald Sie mit Frau Fies ein Honorar vereinbart haben, können Sie hier einen Ve
 ### 2.1 Wie erstelle ich eine professionelle Umfrage?
 
 - [ ] Grundwissen zum Thema "Umfrage" erwerben. ⌚ 45min  
-- [ ] Einen Kurztest zum Grundwissen mit mindestens 60% bestehen. ⌚ 10min 
+- [ ] Einen Kurztest zum Grundwissen "Umfragen" mit mindestens 60% bestehen. ⌚ 10min 
 
 Der Auftrag ist erteilt, der Vertrag unterzeichnet und Sie können loslegen. In der Realität haben Menschen, welche in einer Agentur arbeiten häufig eine Ausbildung im Bereich Marketing, Werbung oder Kommunikation. Es gibt aber auch immer wieder Quereinsteigerinnen. Um den Auftrag durchzuführen zu können, müssen sich Grundwissen zum Thema "Umfrage" erwerben. Sie können nicht weitermachen bis nicht jemand aus ihrer Gruppe eine «Zertifizierung» erhalten hat. Eine Zertifizeriung bedeutet, dass bim Abschlustest mindestens 60% erzielt wurde.
 
@@ -312,7 +319,7 @@ Praktische Tipps:
    Als erstes 
 
 
-## Abrechnung und Projektdokumentation
+## 5. Abrechnung und Projektdokumentation
 
 
 

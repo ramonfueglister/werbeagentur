@@ -1,19 +1,8 @@
-t---
-title: "ph-workshop"
 ---
+title: "Startseite"
+---
+In den nächsten Wochen übernehmen Sie die zu dritt die Rolle einer Social-Media/Marketing Agentur und müssen selbständig ein Projekt für eine Auftraggeberin durchführen. Hier finden Sie alle notwendigen Unterlagen dazu. Lesen Sie dazu zuerst die Lernziele und danach die Aufgabe durch.
 
-T
+Ich wünsche Ihnen viel Spass und viel Erfolg beim Bearbeiten dieses umfangreichen Projektes.
 
-[T](about.qmd)
-
-[T](about.qmd)
-
-his is a Quarto website.
-
-https://www.youtube.com/playlist?list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+R. Füglister

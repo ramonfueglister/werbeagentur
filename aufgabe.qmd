@@ -5,12 +5,7 @@ eval: false
 
 In den nächsten Wochen übernehmen Sie die zu dritt die Rolle einer Social-Media/Marketing Agentur und müssen selbständig ein Projekt für eine Auftraggeberin durchführen.
  
-– die Arbeit für eine Dokumentation selbständig einteilen 
-– Termine und Vereinbarungen einhalten 
-– mit der eigenen Kreativität Freiräume im projektartigen Arbeiten gezielt und produktiv nutzen
-– ein Interview oder eine Umfrage planen und durchführen und die Ergebnisse auswerten 
-– Online-Tools zur Durchführung und Auswertung von Umfragen nutzen 
-– bestehende Dokumente als Vorlagen nutzen und das eigene Produkt gezielt digital ablegen
+
 
 ## 1. Agentur gründen und Auftrag erhalten
 
@@ -25,6 +20,20 @@ Schliessen Sie sich zu Gruppen von zwei oder maximal drei Personen zusammen (KEI
 - [ ] Bescheid wissen, was eine Socia-Media/Marketing Agentur macht.⌚ 10min 
 
 Schauen Sie sich das Videos über den Tagesablauf von Viet Pham Tuan, Gründer einer Social-Media/Marketing an. Wie sieht sein Tagesablauf aus?
+
+{{< video https://www.youtube.com/watch?v=1XqZE2gSALc >}}
+
+Welche weiteren Aufgaben übernimmt eine Social-Media/Marketing Agentur? Übertragen Sie die folgende Eingabe (Prompt) für ChatGPT, indem Sie zuerst auf "Zeige den ChatGPT-Prompt" drücken und dann auf "Copy to Clipboard" drücken. 
+
+![Rüberkopieren](bild1.png){#fig-bild1}
+
+Anschliessend loggen Sie sich in ChatGPT ein und kopieren den Prompt direkt in das Eingabefenster.
+
+
+![Einfügen](bild2.png){#fig-bild2}
+
+
+Hier finden Sie den ersten Prompt:
 
 ```{r}
 "Du bist jetzt ein Marketing und Social-Media Experte. Erkläre mir möglichst einfach und klar was eine Social-Media/Marketing Agentur macht. Zielgruppe sind 16jährige Lernende. Let's verify step by step."
@@ -46,9 +55,12 @@ Wählen Sie einen passenden Namen für ihre Social Media/Werbeagentur. Der Name 
 - [ ] Designen Sie ein Logo für Ihre Agentur. ⌚ 15min 
 - [ ] Begründen Sie 1-2 ganzen Sätzen im Reflexionsjournal wieso Sie den Namen ausgewählt haben. ⌚ 5min 
 
-Designen Sie ein Logo. Sie können das Logo entweder selber gestalten oder mit dem folgenden Tool (Zur Registrierung können Sie Ihre ZAG E-Mail Adresse verwenden: https://app.logodiffusion.com/register ). Speichern Sie das Logo ab. Es muss professionell aussehen. Ein Tutorial dazu finden Sie unter:
+Designen Sie ein Logo. Sie können das Logo entweder selber gestalten oder mit dem folgenden  [Tool](https://app.logodiffusion.com/register)
+(Zur Registrierung können Sie Ihre ZAG E-Mail Adresse verwenden). Speichern Sie das Logo ab. Es muss professionell aussehen. Ein Tutorial dazu finden Sie unter:
 \
 {{< video https://www.youtube.com/watch?v=Z3FNhU_zX2w >}} \
+
+Sie können sich wiederum Hilfe von ChatGPT holen.
 
 ```{r}
 "Du bist jetzt ein Marketing Experte. Unsere Werbeagentur heisst HierstehtderNameihrerWerbeagentur. Wie könnte ein mögliches Logo ausschauen? Beschreibe das Logo möglichst genau und begründe die Auswahl des Logos ausführlich. Let's verify step by step."
@@ -148,7 +160,7 @@ Um Ihre Homepage zu bearbeiten, öffnen Sie einfach die HTML-Datei erneut in Tex
 
 :::
 
-Hier sehen Sie, dass beispielsweise der Tag 'h1' einen Text als Titel auszeichnet. Eine solche Homepage ist aber noch recht anspruchslos. Eine Homepage hat häufig mehrere Seiten, Bilder und ist mit einander über sogenannte Links verbunden. Eine Anleitung wie man komplexere Homepages baut finden Sie unter: https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg. Natürlich können Sie sich auch wieder bei ChatGPT Hilfe holen. Hier ein paar Ideen. Hier können Sie sich den Beispielcode für eine Startseite ausgeben lassen:
+Hier sehen Sie, dass beispielsweise der Tag 'h1' einen Text als Titel auszeichnet. Eine solche Homepage ist aber noch recht anspruchslos. Eine Homepage hat häufig mehrere Seiten, Bilder und ist mit einander über sogenannte Links verbunden. Eine Anleitung wie man komplexere Homepages baut finden Sie unter [SelfHTML](https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg). Natürlich können Sie sich auch wieder bei ChatGPT Hilfe holen. Hier ein paar Ideen. Hier können Sie sich den Beispielcode für eine Startseite ausgeben lassen:
 
 ```{r}
 "Du bist jetzt ein Webprogrammierer.Wir möchte eine Startseite in HTML bauen. Gib bi mir den Code für eine Startsaeite aus und kommentiere ausführlich. Let's verify step by step."
@@ -167,7 +179,7 @@ Sie möchten Ihre Homepage weiter verbessern und brauchen Anregungen:
 Let's verify step by step
 ```
 
-Am Ende sollte ihre Homepage verschiedene Files enthalten. Diese Homepage existiert aber im Moment erst auf ihrem eigenen Rechner. Um Ihre Homepage weltweit zu sehen, müssen Sie diese auf einen sogenannten Serverladen, womit ihre Webseite von der ganzen Welt aus abgerufen werden kann. Dazu werden wir das gratis verfügbare Github [Github](https://github.com/) verwenden. Dazu registrieren Sie sich erneut mit ihrer ZAG E-Mail. Eine Kurzanleitung wie Sie ihre Homepage hochladen können, finden Sie hier (https://www.youtube.com/watch?v=OltY8JIaP-4).
+Am Ende sollte ihre Homepage verschiedene Files enthalten. Diese Homepage existiert aber im Moment erst auf ihrem eigenen Rechner. Um Ihre Homepage weltweit zu sehen, müssen Sie diese auf einen sogenannten Serverladen, womit ihre Webseite von der ganzen Welt aus abgerufen werden kann. Dazu werden wir das gratis verfügbare [Github](https://github.com/) verwenden. Dazu registrieren Sie sich erneut mit ihrer ZAG E-Mail. Eine Kurzanleitung wie Sie ihre Homepage hochladen können, finden Sie [hier](https://www.youtube.com/watch?v=OltY8JIaP-4).
 
 ### 1.6 Auftrag auswählen 
 
@@ -228,7 +240,7 @@ STELLEN SIE FRAGEN. Eine Verhandlung ist eine Übung im Einflussnehmen. Das Vers
 - [ ] einen Vertrag kritisch prüfen und überarbeiten. ⌚ 20min 
 - [ ] Änderungen in einem Vertrag kritisch im Projektjournal in zwei Sätzen reflektieren. ⌚ 5min 
 
-Sobald Sie mit Frau Fies ein Honorar vereinbart haben, können Sie hier einen Vertragsentwurf für ihren Auftrag erhalten. Prüfen Sie diesen sorgfältig, tragen Sie die fehlenden Angaben nach  und korrigieren Sie mit roter Schriftart im Worddokument diejenigen Stellen, mit denen Sie nicht einverstanden sind, weil Sie zu Ungunsten von ihrer Werbeagentur verfasst wurden. Kopieren Sie den veränderten Vertrag in das Projektjournal und begründen Sie mindestens zwei Änderungen, welche Sie vorgenommen haben in zwei ganzen Sätzen.
+Sobald Sie mit Frau Fies ein Honorar vereinbart haben, können Sie hier einen [Vertragsentwurf](docs/Vertrag_Fies.docx) für ihren Auftrag erhalten. Prüfen Sie diesen sorgfältig, tragen Sie die fehlenden Angaben nach  und korrigieren Sie mit roter Schriftart im Worddokument diejenigen Stellen, mit denen Sie nicht einverstanden sind, weil Sie zu Ungunsten von ihrer Werbeagentur verfasst wurden. Kopieren Sie den veränderten Vertrag in das Projektjournal und begründen Sie mindestens zwei Änderungen, welche Sie vorgenommen haben in zwei ganzen Sätzen.
 
 ## 2. Umfrage durchführen
 

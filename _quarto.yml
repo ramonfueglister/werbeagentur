@@ -9,6 +9,7 @@ website:
         text: Home
       - lernziele.qmd
       - aufgabe.qmd
+      - theorie.qmd
 
 format:
   html:

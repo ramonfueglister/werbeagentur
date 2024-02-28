@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Witty Cat Animation</title>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+    overflow: hidden;
+    margin: 0;
+  }
+  .cat {
+    font-size: 100px;
+  }
+  @keyframes move {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-20px);
+    }
+  }
+  @keyframes tail {
+    0%, 100% {
+      transform: rotate(0deg);
+    }
+    50% {
+      transform: rotate(45deg);
+    }
+  }
+  .tail {
+    display: inline-block;
+    animation: tail 2s infinite;
+    transform-origin: bottom left;
+  }
+</style>
+</head>
+<body>
+<div class="cat">
+  <div class="tail">⼑</div>🐱
+</div>
+<script>
+  const cat = document.querySelector('.cat');
+  cat.style.animation = 'move 2s infinite';
+
+  // Add some stars randomly appearing around the cat
+  for (let i = 0; i < 50; i++) {
+    let star = document.createElement('div');
+    star.innerText = '✨';
+    star.style.position = 'absolute';
+    star.style.left = `${Math.random() * window.innerWidth}px`;
+    star.style.top = `${Math.random() * window.innerHeight}px`;
+    star.style.fontSize = `${Math.random() * 24 + 12}px`;
+    star.style.animation = `appear ${Math.random() * 2 + 1}s infinite`;
+    document.body.appendChild(star);
+  }
+
+  @keyframes appear {
+    0%, 100% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+  }
+</script>
+</body>
+</html>

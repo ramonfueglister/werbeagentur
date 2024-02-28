@@ -1,0 +1,148 @@
+<!DOCTYPE html><!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Charming Cat Animation</title>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #e0e0e0;
+    overflow: hidden;
+    margin: 0;
+  }
+  .scene {
+    position: relative;
+    width: 600px;
+    height: 400px;
+  }
+  .cat {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 80px;
+    animation: catJump 5s ease-in-out infinite;
+  }
+  @keyframes catJump {
+    0%, 100% {
+      bottom: 0;
+    }
+    50% {
+      bottom: 200px;
+    }
+  }
+  .heart {
+    position: absolute;
+    font-size: 24px;
+    opacity: 0;
+    animation: floatUp 3s ease-in-out infinite;
+  }
+  @keyframes floatUp {
+    0% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    100% {
+      opacity: 0;
+      transform: translateY(-100px);
+    }
+  }
+</style>
+</head>
+<body>
+<div class="scene">
+  <div class="cat">🐱</div>
+  <div class="heart" style="animation-delay: 1s; left: 20%;">💖</div>
+  <div class="heart" style="animation-delay: 2s; left: 40%;">💖</div>
+  <div class="heart" style="animation-delay: 3s; left: 60%;">💖</div>
+  <div class="heart" style="animation-delay: 4s; left: 80%;">💖</div>
+</div>
+<script>
+  // Generate more hearts around the cat
+  const scene = document.querySelector('.scene');
+  for (let i = 0; i < 20; i++) {
+    let heart = document.createElement('div');
+    heart.classList.add('heart');
+    heart.innerHTML = '💖';
+    heart.style.left = `${Math.random() * 100}%`;
+    heart.style.animationDelay = `${Math.random() * 5}s`;
+    scene.appendChild(heart);
+  }
+</script>
+</body>
+</html>
+
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>Witzige Hunde-Animation</title>
+<style>
+  body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #e6e6e6;
+    overflow: hidden;
+    margin: 0;
+  }
+  .dog {
+    font-size: 100px;
+  }
+  @keyframes jump {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-30px);
+    }
+  }
+  @keyframes ear {
+    0%, 100% {
+      transform: rotate(0deg);
+    }
+    50% {
+      transform: rotate(-20deg);
+    }
+  }
+  .ear {
+    display: inline-block;
+    animation: ear 1.5s infinite;
+    transform-origin: top right;
+  }
+</style>
+</head>
+<body>
+<div class="dog">
+  <div class="ear">⌐</div>🐶
+</div>
+<script>
+  const dog = document.querySelector('.dog');
+  dog.style.animation = 'jump 1.5s infinite';
+
+  // Add some bouncing balls around the dog
+  for (let i = 0; i < 30; i++) {
+    let ball = document.createElement('div');
+    ball.innerText = '⚽';
+    ball.style.position = 'absolute';
+    ball.style.left = `${Math.random() * window.innerWidth}px`;
+    ball.style.top = `${Math.random() * window.innerHeight}px`;
+    ball.style.fontSize = `${Math.random() * 30 + 10}px`;
+    ball.style.animation = `bounce ${Math.random() * 3 + 2}s infinite`;
+    document.body.appendChild(ball);
+  }
+
+  @keyframes bounce {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-50px);
+    }
+  }
+</script>
+</body>
+</html>

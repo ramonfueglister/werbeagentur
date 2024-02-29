@@ -12,4 +12,8 @@ Die Homepage wurde mit Quarto erstellt [Quarto](https://quarto.org/) Ein Tutoria
 
 ## Videos der Unternehmen
 
-Die Videos der Unternehmen wurden mit dem Tool[Heygen](https://www.heygen.com/) erstellt.
+Die Videos der Unternehmen wurden mit dem AI-Tool[Heygen](https://www.heygen.com/) erstellt.
+
+
+
+

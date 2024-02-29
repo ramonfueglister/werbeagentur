@@ -7,9 +7,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - phzh.qmd
       - aufgabe.qmd
       - theorie.qmd
+      - phzh.qmd
 
 format:
   html:

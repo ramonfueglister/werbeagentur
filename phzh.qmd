@@ -11,7 +11,7 @@ title: "PH Zürich Workshop Unterlagen"
 Die Homepage wurde mit Quarto erstellt [Quarto](https://quarto.org/) Ein Tutorial um eine Homepage mit Quarto zu erstellen und auf Github zu veröffentlichen findet sich unter: [Eine Homepage mit Quarto erstellen](https://www.youtube.com/watch?v=e9qCS8ODs4o&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo)
 
 ## Bilder für den Auftrag mit Midjourney erstellen
-Die Bilder wurden mit mit Midjourney [Midjourney](https://docs.midjourney.com/docs/quick-start) erzeugt.
+Die Bilder wurden mit [Midjourney](https://docs.midjourney.com/docs/quick-start) erzeugt.
 
 ## Videos der Unternehmen
 

@@ -6,5 +6,9 @@ title: "PH Zürich Workshop Unterlagen"
 
 [Folien zum Workshop](docs/Workshop.pptx)
 
-## Homepage erstellt mit Quarto
+## Homepage erstellen mit Quarto
 
+Ein Tutorial findet sich unter:
+[Eine Homepage mit Quarto erstellen](https://www.youtube.com/watch?v=e9qCS8ODs4o&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo)
+
+## Homepage erstellen mit Quarto

@@ -7,8 +7,9 @@ title: "PH Zürich Workshop Unterlagen"
 [Folien zum Workshop](docs/Workshop.pptx)
 
 ## Homepage erstellen mit Quarto
-
-Ein Tutorial findet sich unter:
+Die Homepage wurde mit Quarto erstellt [Quarto](https://quarto.org/) Ein Tutorial um eine Homepage mit Quarto zu erstellen und auf Github zu veröffentlichen findet sich unter:
 [Eine Homepage mit Quarto erstellen](https://www.youtube.com/watch?v=e9qCS8ODs4o&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo)
 
-## Homepage erstellen mit Quarto
+## Videos der Unternehmen
+
+Die Videos der Unternehmen wurden mit dem Tool[Heygen](https://www.youtube.com/watch?v=e9qCS8ODs4o&list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo) erstellt.

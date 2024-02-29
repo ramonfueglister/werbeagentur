@@ -1,3 +1,10 @@
 ---
 title: "PH Zürich Workshop Unterlagen"
 ---
+
+## Folien zum Workshop
+
+[Folien zum Workshop](docs/Workshop.pptx)
+
+## Homepage erstellt mit Quarto
+

@@ -66,7 +66,7 @@ Wählen Sie einen passenden Namen für ihre Social Media/Werbeagentur. Der Name 
 -   [ ] Designen Sie ein Logo für Ihre Agentur. ⌚ 15min, 🧠🧠
 -   [ ] Begründen Sie mit 3 ganzen Sätzen im Reflexionsjournal wieso Sie den Namen ausgewählt haben. ⌚ 5min, 🧠🧠
 
-Designen Sie ein Logo. Sie können das Logo entweder selber gestalten oder mit dem folgenden [Tool Playground] (https://huggingface.co/spaces/playgroundai/playground-v2.5) (ohne Registrierung möglich). Speichern Sie das Logo ab. Es muss professionell aussehen. Wie man passende Eingaben erstellt finden Sie unter:
+Designen Sie ein Logo. Sie können das Logo entweder selber gestalten oder mit dem folgenden [Playground](https://huggingface.co/spaces/playgroundai/playground-v2.5) (ohne Registrierung möglich). Speichern Sie das Logo ab. Es muss professionell aussehen. Wie man passende Eingaben erstellt finden Sie unter:
 [Tutorial](https://stable-diffusion-art.com/prompt-guide/)
 
 Sie können sich wiederum Hilfe von ChatGPT holen.

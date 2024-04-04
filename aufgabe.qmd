@@ -77,12 +77,12 @@ Sie können sich wiederum Hilfe von ChatGPT holen.
 ### 1.5 Erstellen Sie eine neue Homepage für Ihre Agentur
 
 -   [ ] Grundkenntnisse in HTML erwerben. ⌚ 30min, 🧠🧠🧠
--   [ ] Eine erste Homepage mit den folgenden Seiten erstellen: Startseite mit Begrüssung und Logo, unser Team und Stärken, unsere Leistungen. ⌚ 460in, 🧠🧠🧠
+-   [ ] Eine erste Homepage mit den folgenden Seiten erstellen: Startseite mit Begrüssung und Logo, unser Team und Stärken, unsere Leistungen. ⌚ 45min, 🧠🧠
 -   [ ] Eigene Homepage auf Github hochladen. ⌚ 15min, 🧠🧠🧠
 -   [ ] Probleme und Erfolgserlebnisse im Projektjournal in 4 Sätzen aufgeschrieben. ⌚ 10min, 🧠🧠
 -   [ ] Über meinen Erwartungen: Eigene Homepage wird mit CSS, Webframeworks interaktiv gemacht und/oder zeichnet sich durch ein besonders gelungenes Layout/Code aus.
 
-Homepages sind ein wichtiges Aushängeschild für jedes Unternehmen. Deshalb ist es sehr wichtig, dass auch ihre Agentur nicht nur ein Logo hat, sondern auch eine eigene Homepage. Homepages sind in der einfachsten Form nicht viel anderes als Textseiten, welche mit zusätzlichen Auszeichnungen versehen werden, um beispielsweise eine Schrift fett darzustellen oder ein Wort als Titel festzulegen. Eine solche Auszeichnung ("Tag", erkennbar an \<\> und dem abschliessenden \</\>) kann beispielsweise <br></br> sein. Alles was zwischen den Tags <br> </br> steht wird automatisch fett geschrieben.Diese Sammlung von Auszeichnungen stellt eine eigene Sprache dar und heisst HTML. Eine erste HTML-Textseite haben Sie schnell erstellt (hier auch eine kurze Präsentation [Präsentation](docs/HTML.pptx) dazu :
+Homepages sind ein wichtiges Aushängeschild für jedes Unternehmen. Deshalb ist es sehr wichtig, dass auch ihre Agentur nicht nur ein Logo hat, sondern auch eine eigene Homepage. Homepages sind in der einfachsten Form nicht viel anderes als Textseiten, welche mit zusätzlichen Auszeichnungen versehen werden, um beispielsweise eine Schrift fett darzustellen oder ein Wort als Titel festzulegen. Eine solche Auszeichnung ("Tag", erkennbar an \<\> und dem abschliessenden \</\>) kann beispielsweise \<br></br> sein. Alles was zwischen den Tags \<br> \</br> steht wird automatisch fett geschrieben.Diese Sammlung von Auszeichnungen stellt eine eigene Sprache dar und heisst HTML. Eine erste HTML-Textseite haben Sie schnell erstellt (hier auch eine kurze Präsentation [Präsentation](docs/HTML.pptx) dazu :
 
 ::: panel-tabset
 ## Anleitung für Windows
@@ -103,7 +103,7 @@ In Notepad geben Sie nun Ihren HTML-Code ein. Hier ist ein sehr einfaches Beispi
 </head>
 <body>
     <h1>Willkommen auf meiner Homepage</h1>
-    <p>Dies ist ein Paragraph mit ein wenig Text. Willkommen!</p>
+    <p>Dies ist ein Abschnitt mit ein wenig Text. Willkommen!</p>
 </body>
 </html>
 

@@ -264,9 +264,8 @@ Sobald Sie mit Frau Fies ein Honorar vereinbart haben, können Sie hier einen [V
 ### 2.1 Wie erstelle ich eine professionelle Umfrage?
 
 -   [ ] Grundwissen zum Thema "Umfrage" erwerben. ⌚ 45min, 🧠🧠🧠
--   [ ] Einen Kurztest zum Grundwissen "Umfragen" mit mindestens 60% bestehen. ⌚ 10min, 🧠🧠
 
-Der Auftrag ist erteilt, der Vertrag unterzeichnet und Sie können loslegen. In der Realität haben Menschen, welche in einer Agentur arbeiten häufig eine Ausbildung im Bereich Marketing, Werbung oder Kommunikation. Es gibt aber auch immer wieder Quereinsteigerinnen. Um den Auftrag durchzuführen zu können, müssen sich Grundwissen zum Thema "Umfrage" erwerben. Sie können nicht weitermachen bis nicht jemand aus ihrer Gruppe eine «Zertifizierung» erhalten hat. Eine Zertifizeriung bedeutet, dass beim Abschlustest mindestens 60% erzielt wurde.
+Der Auftrag ist erteilt, der Vertrag unterzeichnet und Sie können loslegen. In der Realität haben Menschen, welche in einer Agentur arbeiten häufig eine Ausbildung im Bereich Marketing, Werbung oder Kommunikation. Es gibt aber auch immer wieder Quereinsteigerinnen. Um den Auftrag durchzuführen zu können, müssen sich Grundwissen zum Thema "Umfrage" erwerben. Sie finden die Folien mit der Theorie [Vertragsentwurf](docs/1_Theorie_Umfrage.pptx) hier.
 
 ### 2.2 Erstellen Sie die Umfrage in ihrem Projektjournal
 
@@ -331,11 +330,11 @@ Fügen Sie Ihre Erkentnnise stichwortartig in das Projektjournal ein.
 
 Setzen Sie erneut ein professionelles E-Mail auf und schicken Sie das E-Mail mitsamt dem Link zur Umfrage an das Unternehmen (respektive Hr. Füglister). Warten Sie das Feedback des Unternehmens ab. Kopieren Sie ihr E-Mail und das Feedback des Unternehmens in das Projektjournal.
 
-### 2.8 Umfrage mit 30 Personen durchführen
+### 2.8 Umfrage mit 25 Personen durchführen
 
 -   [ ] Umfrage durchführen ⌚ ? min, 🧠🧠
 
-Führen Sie die Umfrage mit 30 Personen durch. Es dürfen nur diejenigen Personen die Umfrage durchführen, welche auch in die Zielgruppe gehören. Es dürfen keine Kolleginnen aus der Klasse die Umfrage ausführen. Denken Sie daran, dass die Umfrage ernsthaft ausgefüllt werden muss.
+Führen Sie die Umfrage mit 25 Personen durch. Es dürfen nur diejenigen Personen die Umfrage durchführen, welche auch in die Zielgruppe gehören. Es dürfen keine Kolleginnen aus der Klasse die Umfrage ausführen. Denken Sie daran, dass die Umfrage ernsthaft ausgefüllt werden muss.
 
 ## 3. Umfrage auswerten
 

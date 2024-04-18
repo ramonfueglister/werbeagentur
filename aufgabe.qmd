@@ -64,7 +64,7 @@ Wählen Sie einen passenden Namen für ihre Social Media/Werbeagentur. Der Name 
 ### 1.4 Designen Sie ein Logo für Ihre Agentur
 
 -   [ ] Designen Sie ein Logo für Ihre Agentur. ⌚ 15min, 🧠🧠
--   [ ] Begründen Sie mit 3 ganzen Sätzen im Reflexionsjournal wieso Sie den Namen ausgewählt haben. ⌚ 5min, 🧠🧠
+-   [ ] Begründen Sie mit 3 ganzen Sätzen im Reflexionsjournal wieso Sie das Logo ausgewählt haben. ⌚ 5min, 🧠🧠
 
 Designen Sie ein Logo. Sie können das Logo entweder selber gestalten oder mit dem folgenden Tool [Playground](https://huggingface.co/spaces/playgroundai/playground-v2.5) (ohne Registrierung möglich). Sie können das Produkt auch mit Microsoft [Copilot](https://www.bing.com/) erstellen. Speichern Sie das Logo ab. Es muss professionell aussehen. Wie man passende Eingaben erstellt finden Sie unter: [Tutorial](https://stable-diffusion-art.com/prompt-guide/)
 
@@ -82,7 +82,7 @@ Sie können sich wiederum Hilfe von ChatGPT holen.
 -   [ ] Probleme und Erfolgserlebnisse im Projektjournal in 4 Sätzen aufgeschrieben. ⌚ 10min, 🧠🧠
 -   [ ] Über meinen Erwartungen: Eigene Homepage wird mit CSS, Webframeworks interaktiv gemacht und/oder zeichnet sich durch ein besonders gelungenes Layout/Code aus.
 
-Homepages sind ein wichtiges Aushängeschild für jedes Unternehmen. Deshalb ist es sehr wichtig, dass auch ihre Agentur nicht nur ein Logo hat, sondern auch eine eigene Homepage. Homepages sind in der einfachsten Form nicht viel anderes als Textseiten, welche mit zusätzlichen Auszeichnungen versehen werden, um beispielsweise eine Schrift fett darzustellen oder ein Wort als Titel festzulegen. Eine solche Auszeichnung ("Tag", erkennbar an \<\> und dem abschliessenden \</\>) kann beispielsweise \<br></br> sein. Alles was zwischen den Tags \<br> \</br> steht wird automatisch fett geschrieben.Diese Sammlung von Auszeichnungen stellt eine eigene Sprache dar und heisst HTML. Eine erste HTML-Textseite haben Sie schnell erstellt (hier auch eine kurze Präsentation [Präsentation](docs/HTML.pptx) dazu :
+Homepages sind ein wichtiges Aushängeschild für jedes Unternehmen. Deshalb ist es sehr wichtig, dass auch ihre Agentur nicht nur ein Logo hat, sondern auch eine eigene Homepage. Homepages sind in der einfachsten Form nicht viel anderes als Textseiten, welche mit zusätzlichen Auszeichnungen versehen werden, um beispielsweise eine Schrift fett darzustellen oder ein Wort als Titel festzulegen. Eine solche Auszeichnung ("Tag", erkennbar an \<\> und dem abschliessenden \</\>) kann beispielsweise \<br\></br> sein. Alles was zwischen den Tags \<br\> \</br\> steht wird automatisch fett geschrieben.Diese Sammlung von Auszeichnungen stellt eine eigene Sprache dar und heisst HTML. Eine erste HTML-Textseite haben Sie schnell erstellt (hier auch eine kurze Präsentation [Präsentation](docs/HTML.pptx) dazu :
 
 ::: panel-tabset
 ## Anleitung für Windows
@@ -202,7 +202,6 @@ Nachdem Sie ein Logo erstellt haben und eine professionelle Homepage haben, sind
 
 **Vanessa Wellenreiter, Gründerin eines Webshops** {{< video https://youtu.be/dd29uUj8Nmk >}}\
 
-
 ### 1.7 Bewerbung für den Auftrag schreiben
 
 -   [ ] sich professionell für den Auftrag beim Unternehmen ihrer Wahl bewerben.⌚ 25min, 🧠🧠
@@ -265,13 +264,13 @@ Sobald Sie mit Frau Fies ein Honorar vereinbart haben, können Sie hier einen [V
 
 -   [ ] Grundwissen zum Thema "Umfrage" erwerben. ⌚ 45min, 🧠🧠🧠
 
-Der Auftrag ist erteilt, der Vertrag unterzeichnet und Sie können loslegen. In der Realität haben Menschen, welche in einer Agentur arbeiten häufig eine Ausbildung im Bereich Marketing, Werbung oder Kommunikation. Es gibt aber auch immer wieder Quereinsteigerinnen. Um den Auftrag durchzuführen zu können, müssen sich Grundwissen zum Thema "Umfrage" erwerben. Sie finden die Folien mit der Theorie [Vertragsentwurf](docs/1_Theorie_Umfrage.pptx) hier.
+Der Auftrag ist erteilt, der Vertrag unterzeichnet und Sie können loslegen. In der Realität haben Menschen, welche in einer Agentur arbeiten häufig eine Ausbildung im Bereich Marketing, Werbung oder Kommunikation. Es gibt aber auch immer wieder Quereinsteigerinnen. Um den Auftrag durchzuführen zu können, müssen sich Grundwissen zum Thema "Umfrage" erwerben. Sie finden die Folien mit der [Theorie Folien](docs/1_Theorie_Umfrage.pptx) hier.
 
 ### 2.2 Erstellen Sie die Umfrage in ihrem Projektjournal
 
 -   [ ] Erstellen von 12 bis 15 Fragen für eine Umfrage.⌚ 25min, 🧠🧠
 
-Mit ihrem theoretischen Wissen können Sie jetzt eine Umfrage für ihre Auftraggeberin erstellen. Eine Kurzumfrage sollte 12-15 Fragen umfassen und nicht länger als 5-10 Minuten zum Ausfüllen benötigen. Wichtig ist es, dass Sie sich möglichst genau an den Anforderungen der Auftraggeberin orientieren. (Was müssen Sie rausfinden? Wer soll befragt werden?). Notieren Sie die Fragen erstmals in ihrem Projektjournal.
+Mit ihrem theoretischen Wissen können Sie jetzt eine Umfrage für ihre AuftFraggeberin erstellen. Eine Kurzumfrage sollte 12-15 Fragen umfassen und nicht länger als 5-10 Minuten zum Ausfüllen benötigen. Wichtig ist es, dass Sie sich möglichst genau an den Anforderungen der Auftraggeberin orientieren. (Was müssen Sie rausfinden? Wer soll befragt werden?). Notieren Sie die Fragen erstmals in ihrem Projektjournal.
 
 ### 2.3 Feedback einholen von ChatGPT
 
@@ -357,5 +356,3 @@ Praktische Tipps:
 -   Legen Sie einen Fokus auf die Geschichte, die die Daten erzählen. Was ist die Hauptbotschaft, die Sie vermitteln möchten?
 -   Betonen Sie die Bedeutung der Ergebnisse für den Auftraggeber und mögliche nächste Schritte.
 -   Bereiten Sie sich auf Fragen vor und denken Sie über mögliche Einwände oder alternative Erklärungen der Daten nach.
-
-

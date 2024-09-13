@@ -8,7 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - aufgabe.qmd
-      - theorie.qmd
+      
       
 
 format:

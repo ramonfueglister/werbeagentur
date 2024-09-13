@@ -9,7 +9,7 @@ website:
         text: Home
       - aufgabe.qmd
       - theorie.qmd
-      - phzh.qmd
+      
 
 format:
   html:

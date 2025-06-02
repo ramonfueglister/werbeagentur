@@ -5,7 +5,14 @@ eval: false
 
 ## 0. Vorgehen und Lernprodukte
 
-In den nächsten Wochen übernehmen Sie zu dritt die Rolle einer Social-Media/Marketing Agentur und müssen selbständig ein Projekt für eine Auftraggeberin durchführen. Dieses umfangreiche Projekt im 2. Semester ihrer Ausbildung ist in mehrere Teilschritte aufgeteilt. Halten Sie sich genau an die Anweisungen. Gehen Sie Schritt für Schritt vor und bearbeiten Sie die folgenden Aufgaben. *Achten Sie darauf, dass Sie regelmässig Sicherheitskopien ihrer Arbeit anfertigen.*
+In den nächsten Wochen übernehmen Sie zu zweit oder dritt die Rolle einer Social-Media/Marketing Agentur und müssen selbständig ein Projekt für eine Auftraggeberin durchführen. Dieses Projekt im 2. Semester ihrer Ausbildung ist in mehrere Teilaufgaben aufgeteilt. Halten Sie sich genau an die Anweisungen. Gehen Sie Schritt für Schritt vor und bearbeiten Sie die folgenden Aufgaben. *Achten Sie darauf, dass Sie regelmässig Sicherheitskopien ihrer Arbeit anfertigen.*
+
+Neben dieser Homepage sind für Sie folgende Infos und Dokumente wichtig:
+
+- [Projektjournal](docs/Projektjournal.docx)
+- [Vertragsentwurf](docs/Vertrag_Fies.docx)
+- Teamsauftrag "Projekt" für die Abgabe
+- [Selbstbeurteilung](https://forms.office.com/e/c5X7LxLLUY)
 
 ⌚ = bezeichnet die Zeit, welche Sie ungefähr für die Erledigung der Teilschritte des Projektes benötigen. Beachten Sie, dass Sie keine zusätzliche Zeit für die Erledigung der Aufgabe im Unterricht erhalten werden. Eine fortlaufende Bearbeitung des Projektes ist äusserst wichtig.
 
@@ -13,14 +20,16 @@ In den nächsten Wochen übernehmen Sie zu dritt die Rolle einer Social-Media/Ma
 
 Am Ende sollten Sie folgende Lernprodukte haben:
 
--   Eine eigene Werbeagentur mit passendem Namen, Logo und einer Titelseite einer eigener Homepage erstellt haben.
--   Eine Auftrag professionell bearbeitet haben (inkl. E-Mails und Elevator Pitch) und eine Umfrage mit mindestens 25 Personen durchgeführt haben.
+-   Eine eigene Social Media Agentur mit passendem Namen, Logo und einer Titelseite einer eigener Homepage erstellt haben.
+-   Einen Auftrag professionell bearbeitet haben (inkl. E-Mails und Elevator Pitch) und eine Umfrage mit mindestens 25 Personen durchgeführt haben.
 -   Ein Projektjournal mit eigenen Reflexionen nachgeführt haben.
+-   Eine Präsentation der Erkenntnisse der Umfrage vorbereitet haben.
 -   Eine Selbstbeurteilung des eigenen Projektes vorgenommen haben.
+
 
 ## 1. Agentur gründen und Auftrag erhalten
 
-Im ersten Teil des Auftrages geht es darum eine eigene Werbeagentur zu gründen und anschliessend eine Umfrage für ein Unternehmen durchzuführen.
+Im ersten Teil des Auftrages geht es darum eine eigene Social-Media-Agentur zu gründen und anschliessend eine Umfrage für ein Unternehmen durchzuführen.
 
 ### 1.1 Gruppe bilden
 
@@ -28,11 +37,11 @@ Im ersten Teil des Auftrages geht es darum eine eigene Werbeagentur zu gründen 
 
 Schliessen Sie sich zu Gruppen von zwei oder maximal drei Personen zusammen (KEINE Vierergruppe).
 
-### 1.2 Was macht eine Social Media/Werbeagentur?
+### 1.2 Was macht eine Social Media/Marketingagenturr?
 
--   [ ] Bescheid wissen, was eine Socia-Media/Marketing Agentur macht. ⌚ 10min, 🧠
+-   [ ] Bescheid wissen, was eine Socia-Media/Marketing-Agentur macht. ⌚ 10min, 🧠
 
-Schauen Sie sich das Videos über den Tagesablauf von Viet Pham Tuan, Gründer einer Social-Media/Marketing an. Wie sieht sein Tagesablauf aus?
+Schauen Sie sich das Videos über den Tagesablauf von Viet Pham Tuan, Gründer einer Social-Media/Marketing Agentur an. Wie sieht sein Tagesablauf aus?
 
 {{< video https://www.youtube.com/watch?v=1XqZE2gSALc >}}
 
@@ -50,12 +59,12 @@ Hier finden Sie den ersten Prompt:
 "Du bist jetzt ein Marketing und Social-Media Experte. Erkläre mir möglichst einfach und klar was eine Social-Media/Marketing Agentur macht. Zielgruppe sind 16jährige Lernende"
 ```
 
-### 1.3 Wie heisst ihre Social Media Agentur?
+### 1.3 Wie heisst ihre Social-Media-Agentur?
 
 -   [ ] Einen passenden Namen für die eigenen Agentur finden.⌚ 15min, 🧠🧠
 -   [ ] Begründen Sie mit 4 ganzen Sätzen im Reflexionsjournal wieso Sie den Namen ausgewählt haben.⌚ 5min, 🧠🧠
 
-Wählen Sie einen passenden Namen für ihre Social Media/Werbeagentur. Der Name sollte frisch, spannend und kreativ sein sowie Ihre Identität als Gruppe/Agentur ausdrücken. Sie können sich dabei durch ChatGPT unterstützen lassen. Unten finden Sie eine möglichen Prompt (Eingabe), welche Sie verwenden können. Experimentieren Sie mit dem Prompt und denken Sie daran, dass Sie ihre Auswahl auch begründen müssen.
+Wählen Sie einen passenden Namen für ihre Social Media-Agentur. Der Name sollte frisch, spannend und kreativ sein sowie Ihre Identität als Gruppe/Agentur ausdrücken. Sie können sich dabei durch ChatGPT unterstützen lassen. Unten finden Sie eine möglichen Prompt (Eingabe), welche Sie verwenden können. Experimentieren Sie mit dem Prompt und denken Sie daran, dass Sie ihre Auswahl auch begründen müssen.
 
 ```{r}
 "Du bist jetzt ein Marketing Experte. Erstelle uns passende Namen für eine neue Werbeagentur. Uns ist besonders wichtig, unsere Stärken sind, dass wir besonders gute Teamplayer sind."
@@ -263,7 +272,7 @@ Sobald Sie mit Frau Fies ein Honorar vereinbart haben, können Sie hier einen [V
 
 Der Auftrag ist erteilt, der Vertrag unterzeichnet und Sie können loslegen. In der Realität haben Menschen, welche in einer Agentur arbeiten häufig eine Ausbildung im Bereich Marketing, Werbung oder Kommunikation. Es gibt aber auch immer wieder Quereinsteigerinnen. Um den Auftrag durchzuführen zu können, können Sie ihr Grundwissen zum Thema "Umfrage" nochmals repetieren. Sie finden die Folien mit der [Theorieen](docs/1_Theorie_Umfrage.pptx) hier.
 
-### 2.2 Erstellen Sie die Umfrage 
+### 2.2 Erstellen Sie die Umfrage
 
 -   [ ] Erstellen von 12 bis 15 zielgruppengerechte Fragen für eine Umfrage.⌚ 15min, 🧠🧠
 

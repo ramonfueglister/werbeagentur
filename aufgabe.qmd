@@ -5,27 +5,30 @@ eval: false
 
 ## 0. Vorgehen und Lernprodukte
 
-In den nächsten Wochen übernehmen Sie zu zweit oder dritt die Rolle einer Social-Media/Marketing Agentur und müssen selbständig ein Projekt für eine Auftraggeberin durchführen. Dieses Projekt im 2. Semester ihrer Ausbildung ist in mehrere Teilaufgaben aufgeteilt. Halten Sie sich genau an die Anweisungen. Gehen Sie Schritt für Schritt vor und bearbeiten Sie die folgenden Aufgaben. *Achten Sie darauf, dass Sie regelmässig Sicherheitskopien ihrer Arbeit anfertigen.*
+In den nächsten Wochen übernehmen Sie zu zweit oder dritt die Rolle einer Social-Media/Marketing Agentur und müssen selbständig ein Projekt für eine Auftraggeberin durchführen. Dieses Projekt im 2. Semester ihrer Ausbildung ist in mehrere Teilaufgaben aufgeteilt. Hier ein Überblick:
+
+![](images/bild5.jpg){#fig-bild2}
+
+Halten Sie sich genau an die Anweisungen. Gehen Sie Schritt für Schritt vor und bearbeiten Sie die folgenden Aufgaben. *Achten Sie darauf, dass Sie regelmässig Sicherheitskopien ihrer Arbeit anfertigen.*
 
 Neben dieser Homepage sind für Sie folgende Infos und Dokumente wichtig:
 
-- [Projektjournal](docs/Projektjournal.docx)
-- [Vertragsentwurf](docs/Vertrag_Fies.docx)
-- Teamsauftrag "Projekt" für die Abgabe
-- [Selbstbeurteilung](https://forms.office.com/e/c5X7LxLLUY)
+-   [Projektjournal](docs/Projektjournal.docx)
+-   [Vertragsentwurf](docs/Vertrag_Fies.docx)
+-   Teamsauftrag "Projekt" für die Abgabe
+-   [Selbstbeurteilung](https://forms.office.com/e/c5X7LxLLUY)
 
 ⌚ = bezeichnet die Zeit, welche Sie ungefähr für die Erledigung der Teilschritte des Projektes benötigen. Beachten Sie, dass Sie keine zusätzliche Zeit für die Erledigung der Aufgabe im Unterricht erhalten werden. Eine fortlaufende Bearbeitung des Projektes ist äusserst wichtig.
 
 🧠 = bezeichnet die Schwierigkeit der Aufgabe. (🧠 = eher einfach, 🧠🧠🧠 = sehr schwierig)
 
-Am Ende sollten Sie folgende Lernprodukte haben:
+**Am Ende sollten Sie folgende Lernprodukte haben:**
 
 -   Eine eigene Social Media Agentur mit passendem Namen, Logo und einer Titelseite einer eigener Homepage erstellt haben.
 -   Einen Auftrag professionell bearbeitet haben (inkl. E-Mails und Elevator Pitch) und eine Umfrage mit mindestens 25 Personen durchgeführt haben.
--   Ein Projektjournal mit eigenen Reflexionen nachgeführt haben.
+-   Ein Projektjournal mit eigenen authentischen Reflexionen nachgeführt haben.
 -   Eine Präsentation der Erkenntnisse der Umfrage vorbereitet haben.
 -   Eine Selbstbeurteilung des eigenen Projektes vorgenommen haben.
-
 
 ## 1. Agentur gründen und Auftrag erhalten
 
@@ -51,7 +54,7 @@ Für diese Aufgabe wird von Ihnen erwartet, dass Sie lernen mit ChatGPT produkti
 
 Anschliessend loggen Sie sich in ChatGPT ein und kopieren den Prompt direkt in das Eingabefenster.
 
-![Einfügen](bild2.png){#fig-bild2}
+![Einfügen](bild2.png)
 
 Hier finden Sie den ersten Prompt:
 
@@ -62,9 +65,9 @@ Hier finden Sie den ersten Prompt:
 ### 1.3 Wie heisst ihre Social-Media-Agentur?
 
 -   [ ] Einen passenden Namen für die eigenen Agentur finden.⌚ 15min, 🧠🧠
--   [ ] Begründen Sie mit 4 ganzen Sätzen im Reflexionsjournal wieso Sie den Namen ausgewählt haben.⌚ 5min, 🧠🧠
+-   [ ] Begründen Sie mit 4 ganzen und persönlichen Sätzen im Reflexionsjournal wieso Sie den Namen ausgewählt haben.⌚ 5min, 🧠🧠
 
-Wählen Sie einen passenden Namen für ihre Social Media-Agentur. Der Name sollte frisch, spannend und kreativ sein sowie Ihre Identität als Gruppe/Agentur ausdrücken. Sie können sich dabei durch ChatGPT unterstützen lassen. Unten finden Sie eine möglichen Prompt (Eingabe), welche Sie verwenden können. Experimentieren Sie mit dem Prompt und denken Sie daran, dass Sie ihre Auswahl auch begründen müssen.
+Wählen Sie einen passenden Namen für ihre Social Media-Agentur. Der Name sollte frisch, spannend und kreativ sein sowie Ihre Identität als Gruppe/Agentur klar ausdrücken. Sie können sich dabei durch ChatGPT unterstützen lassen. Unten finden Sie eine möglichen Prompt (Eingabe), welche Sie verwenden können. Experimentieren Sie mit dem Prompt und denken Sie daran, dass Sie ihre Auswahl auch begründen müssen.
 
 ```{r}
 "Du bist jetzt ein Marketing Experte. Erstelle uns passende Namen für eine neue Werbeagentur. Uns ist besonders wichtig, unsere Stärken sind, dass wir besonders gute Teamplayer sind."

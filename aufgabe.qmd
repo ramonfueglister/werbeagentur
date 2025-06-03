@@ -16,7 +16,7 @@ Neben dieser Homepage sind für Sie folgende Infos und Dokumente wichtig:
 -   [Projektjournal](docs/Projektjournal.docx)
 -   [Vertragsentwurf](docs/Vertrag_Fies.docx)
 -   Teamsauftrag "Projekt" für die Abgabe
--   [Selbstbeurteilung](https://forms.office.com/e/c5X7LxLLUY)
+-   [Selbstbeurteilung](docs/Bewertungskriterien.docx)
 
 ⌚ = bezeichnet die Zeit, welche Sie ungefähr für die Erledigung der Teilschritte des Projektes benötigen. Beachten Sie, dass Sie keine zusätzliche Zeit für die Erledigung der Aufgabe im Unterricht erhalten werden. Eine fortlaufende Bearbeitung des Projektes ist äusserst wichtig.
 

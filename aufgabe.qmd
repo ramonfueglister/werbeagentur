@@ -9,23 +9,23 @@ In den nächsten Wochen übernehmen Sie zu zweit oder dritt die Rolle einer Soci
 
 ![](images/bild5.jpg){#fig-bild2}
 
-Halten Sie sich genau an die Anweisungen. Gehen Sie Schritt für Schritt vor und bearbeiten Sie die folgenden Aufgaben. *Achten Sie darauf, dass Sie regelmässig Sicherheitskopien ihrer Arbeit anfertigen.*
+Halten Sie sich genau an die Anweisungen. Gehen Sie Schritt für Schritt vor und bearbeiten Sie die folgenden Aufgaben. *Achten Sie darauf, dass Sie regelmässig Sicherheitskopien ihrer Arbeit anfertigen.* Es ist normal, dass die Zeit äusserst knapp bemessen ist. Sie können die Aufgabe nur lösen, wenn Sie sich perfekt organisieren, die Arbeit fair aufteilen und das Tool ChatGPT optimal nutzen.
 
-Neben dieser Homepage sind für Sie folgende Infos und Dokumente wichtig:
+Neben dieser Homepage sind für Sie folgende Informationen und Dokumente wichtig:
 
 -   [Projektjournal](docs/Projektjournal.docx)
 -   [Vertragsentwurf](docs/Vertrag_Fies.docx)
--   Teamsauftrag "Projekt" für die Abgabe
+-   Teamsauftrag "Projekt" für die finale Abgabe
 -   [Selbstbeurteilung](docs/Bewertungskriterien.docx)
 
-⌚ = bezeichnet die Zeit, welche Sie ungefähr für die Erledigung der Teilschritte des Projektes benötigen. Beachten Sie, dass Sie keine zusätzliche Zeit für die Erledigung der Aufgabe im Unterricht erhalten werden. Eine fortlaufende Bearbeitung des Projektes ist äusserst wichtig.
+⌚ = bezeichnet die Zeit, welche Sie ungefähr für die Erledigung der Teilschritte des Projektes benötigen. Beachten Sie, dass Sie ausserhalb der vorgegebenen Zeit keine zusätzliche Zeit für die Erledigung der Aufgabe im Unterricht erhalten werden. Eine fortlaufende Bearbeitung des Projektes ist äusserst wichtig.
 
 🧠 = bezeichnet die Schwierigkeit der Aufgabe. (🧠 = eher einfach, 🧠🧠🧠 = sehr schwierig)
 
 **Am Ende sollten Sie folgende Lernprodukte haben:**
 
--   Eine eigene Social Media Agentur mit passendem Namen, Logo und einer Titelseite einer eigener Homepage erstellt haben.
--   Einen Auftrag professionell bearbeitet haben (inkl. E-Mails und Elevator Pitch) und eine Umfrage mit mindestens 25 Personen durchgeführt haben.
+-   Eine eigene Social Media Agentur mit passendem Namen, Logo und einer Titelseite einer eigenen persönlichen Homepage erstellt haben.
+-   Einen Auftrag professionell bearbeitet haben (inkl. E-Mails und persönlichem Elevator Pitch) und eine Umfrage mit mindestens 25 Personen durchgeführt haben.
 -   Ein Projektjournal mit eigenen authentischen Reflexionen nachgeführt haben.
 -   Eine Präsentation der Erkenntnisse der Umfrage vorbereitet haben.
 -   Eine Selbstbeurteilung des eigenen Projektes vorgenommen haben.
@@ -40,17 +40,17 @@ Im ersten Teil des Auftrages geht es darum eine eigene Social-Media-Agentur zu g
 
 Schliessen Sie sich zu Gruppen von zwei oder maximal drei Personen zusammen (KEINE Vierergruppe).
 
-### 1.2 Was macht eine Social Media/Marketingagenturr?
+### 1.2 Was macht eine Social Media/Marketingagentur?
 
--   [ ] Bescheid wissen, was eine Socia-Media/Marketing-Agentur macht. ⌚ 10min, 🧠
+-   [ ] Bescheid wissen, was eine Social-Media/Marketing-Agentur macht. ⌚ 10min, 🧠
 
-Schauen Sie sich das Videos über den Tagesablauf von Viet Pham Tuan, Gründer einer Social-Media/Marketing Agentur an. Wie sieht sein Tagesablauf aus?
+Schauen Sie sich das Video über den Tagesablauf von Viet Pham Tuan, Gründer einer Social-Media/Marketing Agentur an. Wie sieht sein Tagesablauf aus?
 
 {{< video https://www.youtube.com/watch?v=1XqZE2gSALc >}}
 
 Für diese Aufgabe wird von Ihnen erwartet, dass Sie lernen mit ChatGPT produktiv zu arbeiten. Sie werden feststellen, dass Sie ChatGPT für ganz unterschiedliche Aufgaben benutzen können. Zum Beispiel können Sie sich weitere Infos zur Frage oben generieren lassen: Welche Aufgaben übernimmt eine Social-Media/Marketing Agentur? Übertragen Sie die folgende Eingabe (Prompt) für ChatGPT, indem Sie zuerst auf "Zeige den ChatGPT-Prompt" drücken und dann auf "Copy to Clipboard" drücken.
 
-![Rüberkopieren](bild1.png){#fig-bild1}
+![Hinüberkopieren](bild1.png){#fig-bild1}
 
 Anschliessend loggen Sie sich in ChatGPT ein und kopieren den Prompt direkt in das Eingabefenster.
 
@@ -59,7 +59,7 @@ Anschliessend loggen Sie sich in ChatGPT ein und kopieren den Prompt direkt in d
 Hier finden Sie den ersten Prompt:
 
 ```{r}
-"Du bist jetzt ein Marketing und Social-Media Experte. Erkläre mir möglichst einfach und klar was eine Social-Media/Marketing Agentur macht. Zielgruppe sind 16jährige Lernende"
+"Du bist jetzt ein Marketing und Social-Media Experte. Erkläre mir möglichst einfach und klar was eine Social-Media/Marketing Agentur macht. Zielgruppe sind 16-jährige Lernende"
 ```
 
 ### 1.3 Wie heisst ihre Social-Media-Agentur?
@@ -67,10 +67,10 @@ Hier finden Sie den ersten Prompt:
 -   [ ] Einen passenden Namen für die eigenen Agentur finden.⌚ 15min, 🧠🧠
 -   [ ] Begründen Sie mit 4 ganzen und persönlichen Sätzen im Reflexionsjournal wieso Sie den Namen ausgewählt haben.⌚ 5min, 🧠🧠
 
-Wählen Sie einen passenden Namen für ihre Social Media-Agentur. Der Name sollte frisch, spannend und kreativ sein sowie Ihre Identität als Gruppe/Agentur klar ausdrücken. Sie können sich dabei durch ChatGPT unterstützen lassen. Unten finden Sie eine möglichen Prompt (Eingabe), welche Sie verwenden können. Experimentieren Sie mit dem Prompt und denken Sie daran, dass Sie ihre Auswahl auch begründen müssen.
+Wählen Sie einen passenden Namen für ihre Social Media-Agentur. Der Name sollte frisch, spannend und kreativ sein sowie Ihre Identität als Gruppe/Agentur klar ausdrücken. Sie können sich dabei durch ChatGPT unterstützen lassen. Unten finden Sie einen möglichen Prompt (Eingabe), welche Sie verwenden können. Experimentieren Sie mit dem Prompt und denken Sie daran, dass Sie ihre Auswahl auch begründen müssen.
 
 ```{r}
-"Du bist jetzt ein Marketing Experte. Erstelle uns passende Namen für eine neue Werbeagentur. Uns ist besonders wichtig, unsere Stärken sind, dass wir besonders gute Teamplayer sind."
+"Du bist jetzt ein Marketing Experte. Erstelle uns passende Namen für eine neue Werbeagentur. Uns ist besonders wichtig, dass unsere Stärke ist, dass wir besonders gute Teamplayer sind."
 ```
 
 ### 1.4 Designen Sie ein Logo für Ihre Agentur
@@ -78,7 +78,7 @@ Wählen Sie einen passenden Namen für ihre Social Media-Agentur. Der Name sollt
 -   [ ] Designen Sie ein Logo für Ihre Agentur. ⌚ 15min, 🧠🧠
 -   [ ] Begründen Sie mit 3 ganzen Sätzen im Reflexionsjournal wieso Sie das Logo ausgewählt haben. ⌚ 5min, 🧠🧠
 
-Designen Sie ein Logo. Sie können das Logo entweder selber gestalten oder mit dem folgenden Tool [Playground](https://huggingface.co/spaces/playgroundai/playground-v2.5) (ohne Registrierung möglich). Sie können das Logo auch mit ChatGPT erstellen. Speichern Sie das Logo ab. Es muss professionell aussehen. Wie man passende Eingaben erstellt finden Sie unter: [Tutorial](https://stable-diffusion-art.com/prompt-guide/)
+Designen Sie ein Logo. Sie können das Logo entweder selbst gestalten oder mit dem folgenden Tool [Playground](https://huggingface.co/spaces/playgroundai/playground-v2.5) (ohne Registrierung möglich). Sie können das Logo auch mit ChatGPT erstellen. Speichern Sie das Logo ab. Es muss professionell aussehen. Wie man passende Eingaben erstellt finden Sie unter: [Tutorial](https://stable-diffusion-art.com/prompt-guide/)
 
 Sie können sich wiederum Hilfe von ChatGPT holen.
 
@@ -179,7 +179,7 @@ Um Ihre Homepage zu bearbeiten, öffnen Sie einfach die HTML-Datei erneut in Tex
 ```
 :::
 
-Hier sehen Sie, dass beispielsweise der Tag 'h1' einen Text als Titel auszeichnet. Eine solche Homepage ist aber noch recht anspruchslos. Eine Homepage hat häufig mehrere Seiten, Bilder und ist mit einander über sogenannte Links verbunden. Eine Anleitung wie man komplexere Homepages baut finden Sie unter [SelfHTML](https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg). Natürlich können Sie sich auch wieder bei ChatGPT Hilfe holen. Hier ein paar Ideen. Hier können Sie sich den Beispielcode für eine Startseite ausgeben lassen:
+Hier sehen Sie, dass beispielsweise der Tag 'h1' einen Text als Titel auszeichnet. Eine solche Homepage ist aber noch recht anspruchslos. Eine Homepage hat häufig mehrere Seiten, Bilder und ist miteinander über sogenannte Links verbunden. Eine Anleitung wie man komplexere Homepages baut finden Sie unter [SelfHTML](https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg). Natürlich können Sie sich auch wieder bei ChatGPT Hilfe holen. Hier ein paar Ideen. Hier können Sie sich den Beispielcode für eine Startseite ausgeben lassen:
 
 ```{r}
 "Du bist jetzt ein Webprogrammierer.Wir möchte eine Startseite in HTML bauen. Gib mir den Code für eine Startseite aus und kommentiere ausführlich. 
@@ -205,7 +205,7 @@ Am Ende sollte ihre Homepage verschiedene Files enthalten. Diese Homepage existi
 -   [ ] in 3 ganzen Sätzen in ihrem Projektjournal begründen, wieso Sie gerade dieses Unternehmen ausgewählt haben. ⌚ 10min, 🧠🧠
 -   [ ] in ihrem Projektjournal stichwortartig (mindestens 10 Stichwörter) erklären, was die genauen Anforderungen des Unternehmens sind (Auftrag). ⌚ 5 min, 🧠🧠
 
-Nachdem Sie ein Logo erstellt haben und eine professionelle Homepage haben, sind Sie startklar für ihren ersten Auftrag. Auf Social Media sind sie auf folgende Kontakte von Unternehmen gestossen. Wählen Sie eines der folgenden Unternehmen mit dem entsprechenden Auftrag aus und schauen Sie das dazugehörige Video an. Machen Sie sich klar was genau die Anforderungen des Auftrags sind.Die Unternehmen und Personen sind fiktive Beispiele und wurden mit Video/Audiogeneratoren erzeugt.Die geäusserten Meinungen entsprechen nicht realen Beispielen, sondern dienen ausschliesslich zu Übungszwecken.
+Nachdem Sie ein Logo erstellt haben und eine professionelle Homepage haben, sind Sie als neue Werbeagentur startklar für ihren ersten Auftrag. Auf Social Media sind sie auf folgende Kontakte von Unternehmen gestossen. Wählen Sie eines der folgenden Unternehmen mit dem entsprechenden Auftrag aus und schauen Sie das dazugehörige Video an. Machen Sie sich klar*, was genau die Anforderungen des Auftrags sind*. Die Unternehmen und Personen sind fiktive (erfundene) Beispiele und wurden mit Video/Audiogeneratoren erzeugt.Die geäusserten Meinungen entsprechen nicht realen Beispielen, sondern dienen ausschliesslich zu Übungszwecken.
 
 **Antonio Di Maggio, Geschäftsführer des 'Veganer Verein Schweiz (VVS)'** {{< video https://youtu.be/sNgBGy9L2CE >}}\
 
@@ -220,13 +220,13 @@ Nachdem Sie ein Logo erstellt haben und eine professionelle Homepage haben, sind
 -   [ ] beim E-Mail ein kurzes Elevator-Pitch Video anfügen, welches Ihre Motivation und das Team der Werbeagentur vorstellt. ⌚ 30min, 🧠🧠
 -   [ ] in 2 Sätzen im Projektjournal festhalten, welche Schwerpunkte Sie im Elevator Pitch ausgewählt haben. ⌚ 5 min, 🧠🧠
 
-Erstellen Sie ein professionelles Geschäfts-E-Mail und bewerben Sie sich für den Auftrag beim entsprechenden Unternehmen. In ihrem E-Mail beschreiben Sie ganz kurz ihre Motivation, ihre Kenntnisse für den Auftrag und gehen Sie auf die genauen Bedürfnisse der Auftraggeberin ein. Stellen Sie sich ausserdem professionell in einem 1-minütigen Elevator-Pitch als Team vor. Ein Elevator Pitch ist eine kurze, prägnante Präsentation einer Idee, die innerhalb der Dauer einer Fahrstuhlfahrt (daher der Name "Elevator" für Fahrstuhl und "Pitch" für Verkaufsgespräch) überzeugend dargelegt wird, typischerweise in 30 Sekunden bis 2 Minuten. Das Ziel ist es, das Interesse des Zuhörers zu wecken, sei es ein potenzieller Kunde, Investor oder Partner, um eine weiterführende Diskussion oder ein Meeting zu erreichen. Ihr Elevator Pitch kann folgende folgende Elemente enthalten: Wer sind wir, Stärken der Personen, unsere Vision, wieso wir für die Firma arbeiten wollen. Gehen Sie zuerst auf die folgende Homepage Fiete.AI und reichen Sie dort ihr E-Mail ein, um ein kurzes [Feedback zu erhalten.](https://app.fiete.ai/a/clt78tpt502pbod0199uzijqg) Nachdem Sie ein Feedback erhalten, haben fügen Sie das fertige E-Mail in ihr Projektjournal ein. Beachten Sie, dass der Elevator Pitch zusätzlich an den fertigen Teamsauftrag angehängt werden muss.
+Erstellen Sie ein professionelles Geschäfts-E-Mail und bewerben Sie sich für den Auftrag beim entsprechenden Unternehmen. In ihrem E-Mail beschreiben Sie ganz kurz ihre Motivation, ihre Kenntnisse für den Auftrag und gehen Sie auf die genauen Bedürfnisse der Auftraggeberin ein. Stellen Sie sich ausserdem professionell in einem 1-minütigen Elevator-Pitch als Team vor. Ein Elevator Pitch ist eine kurze, prägnante Präsentation einer Idee, die innerhalb der Dauer einer Fahrstuhlfahrt (daher der Name "Elevator" für Fahrstuhl und "Pitch" für Verkaufsgespräch) überzeugend dargelegt wird, typischerweise in 30 Sekunden bis 2 Minuten. Das Ziel ist es, das Interesse des Zuhörers zu wecken, sei es ein potenzieller Kunde, Investor oder Partner, um eine weiterführende Diskussion oder ein Meeting zu erreichen. Ihr Elevator Pitch kann folgende Elemente enthalten: Wer sind wir, Stärken der Personen, unsere Vision, wieso wir den Auftrag von Fr. Müller, Herr Di Maggio oder Frau Wellenreiter (nur einen Auftrag wählen) übernehmen wollen. Gehen Sie zuerst auf die folgende Homepage Fiete.AI und reichen Sie dort ihr E-Mail ein, um ein kurzes [Feedback zu erhalten.](https://app.fiete.ai/a/clt78tpt502pbod0199uzijqg) Nachdem Sie ein Feedback erhalten, haben fügen Sie das fertige E-Mail in ihr Projektjournal ein. Beachten Sie, dass der Elevator Pitch zusätzlich an den fertigen Teamsauftrag angehängt werden muss.
 
 ### 1.8 Vertragsverhandlungen führen
 
 -   [ ] eine Vertragsverhandlung mit Frau Fies führen um ihr Honorar für das Projekt zu verhandeln. ⌚ 20min, 🧠🧠🧠
 -   [ ] 2 Erkenntnisse notieren, welche Ihnen bei der Vertragsverhandlung gekommen sind. ⌚ 5min, 🧠🧠
--   [ ] finalen Preis notieren, welcher bei der Vertragsverhandlung rausgekommen ist. ⌚ 1min, 🧠
+-   [ ] finalen Preis notieren, welcher bei der Vertragsverhandlung erzielt wurde. ⌚ 1min, 🧠
 
 Nachdem Sie die Zusage für den Auftrag erhalten haben, geht es noch darum ihr Honorar (Ihr Lohn) für das Projekt zu verhandeln. Sie müssen das direkt mit der Leiterin der Kommunikationsabteilung der Auftraggeberin, Fr. Fies, machen. Sie wird sich per Chat bei Ihnen melden. Öffnen Sie [ChatGPT](https://chat.openai.com/) und loggen Sie sich ein. Kopieren Sie den folgenden Mega-Prompt in eine neue Unterhaltung und legen Sie los:
 
@@ -273,18 +273,18 @@ Sobald Sie mit Frau Fies ein Honorar vereinbart haben, können Sie hier einen [V
 
 -   [ ] Grundwissen zum Thema "Umfrage" repetieren. ⌚ 15min, 🧠🧠🧠
 
-Der Auftrag ist erteilt, der Vertrag unterzeichnet und Sie können loslegen. In der Realität haben Menschen, welche in einer Agentur arbeiten häufig eine Ausbildung im Bereich Marketing, Werbung oder Kommunikation. Es gibt aber auch immer wieder Quereinsteigerinnen. Um den Auftrag durchzuführen zu können, können Sie ihr Grundwissen zum Thema "Umfrage" nochmals repetieren. Sie finden die Folien mit der [Theorieen](docs/1_Theorie_Umfrage.pptx) hier.
+Der Auftrag ist erteilt, der Vertrag unterzeichnet und Sie können loslegen. In der Realität haben Menschen, welche in einer Agentur arbeiten häufig eine Ausbildung im Bereich Marketing, Werbung oder Kommunikation. Es gibt aber auch immer wieder Quereinsteigerinnen. Um den Auftrag durchzuführen zu können, können Sie ihr Grundwissen zum Thema "Umfrage" nochmals repetieren. Sie finden die Folien [hier](docs/1_Theorie_Umfrage.pptx).
 
 ### 2.2 Erstellen Sie die Umfrage
 
--   [ ] Erstellen von 12 bis 15 zielgruppengerechte Fragen für eine Umfrage.⌚ 15min, 🧠🧠
+-   [ ] Erstellen von 12 bis 15 zielgruppengerechte Fragen für eine Umfrage und Notiz im Projektjournal.⌚ 15min, 🧠🧠
 
-Mit ihrem theoretischen Wissen können Sie jetzt eine Umfrage für ihre Auftraggeberin erstellen. Eine Kurzumfrage sollte 12-15 Fragen umfassen und nicht länger als 5-10 Minuten zum Ausfüllen benötigen. Wichtig ist es, dass Sie sich möglichst genau an den Anforderungen der Auftraggeberin orientieren. (Was müssen Sie rausfinden? Wer soll befragt werden?). Notieren Sie die Fragen erstmals in ihrem Projektjournal.
+Mit ihrem theoretischen Wissen können Sie jetzt eine Umfrage für ihre Auftraggeberin erstellen. Eine Kurzumfrage sollte 12-15 Fragen umfassen und nicht länger als 5-10 Minuten zum Ausfüllen benötigen. Wichtig ist es, dass Sie sich möglichst genau an den Anforderungen der Auftraggeberin orientieren. (Was müssen Sie rausfinden? Wer soll genau befragt werden?). Notieren Sie die eigenen Fragen erstmals in ihrem Projektjournal.
 
 ### 2.3 Feedback einholen von ChatGPT
 
 -   [ ] Feedback holen von ChatGPT ⌚ 5min, 🧠
--   [ ] 3 persönliche Gedanken zum Feedback von ChatGPT notieren ⌚ 5min, 🧠
+-   [ ] 3 persönliche Gedanken (ganze Sätze) zum Feedback von ChatGPT notieren ⌚ 5min, 🧠
 -   [ ] Fragen überarbeiten und im Projektjournal nachtragen ⌚ 5 min, 🧠🧠
 
 Überarbeiten Sie die Fragen mit ChatGPT mit dem folgenden Prompt. Sie müssen "Unternehmen X" ersetzen mit dem Unternehmen für welches Sie die Umfrage machen. Ausserdem müssen Sie den Text "hier die Fragen einfügen" löschen und ihre eigenen Fragen einfügen.
@@ -320,13 +320,13 @@ Bevor eine Umfrage gestartet wird, ist es üblich sich von anderen, nicht direkt
 -   Gibt es mögliche Schwachstellen oder Fehler in der Umfrage, die übersehen wurden und wie könnten sie verbessert werden?
 -   Sind die Fragen für die Zielgruppe angemessen und ansprechend gestaltet? (z.B. sind schwierige Begriffe für ältere/jüngere Menschen zusätzlich erklärt?)
 
-Fügen Sie Ihre Erkentnnise stichwortartig in das Projektjournal ein.
+Fügen Sie Ihre Erkenntnisse stichwortartig in das Projektjournal ein.
 
 ### 2.6 Umfrage mit 25 Personen durchführen
 
 -   [ ] Umfrage durchführen ⌚ ? min, 🧠🧠
 
-Führen Sie die Umfrage mit 25 Personen durch. Es dürfen nur diejenigen Personen die Umfrage durchführen, welche auch in die Zielgruppe gehören. **Es dürfen keine Kolleginnen aus der Klasse die Umfrage ausführen**. Denken Sie daran, dass die Umfrage ernsthaft ausgefüllt werden muss.
+Führen Sie die Umfrage mit mindestens 25 Personen durch. Es dürfen nur diejenigen Personen die Umfrage durchführen, welche auch in die Zielgruppe gehören. **Es dürfen keine Kolleginnen aus der Klasse die Umfrage ausführen**. Denken Sie daran, dass die Umfrage ernsthaft ausgefüllt werden muss.
 
 ## 3. Umfrage auswerten
 
@@ -334,17 +334,18 @@ Führen Sie die Umfrage mit 25 Personen durch. Es dürfen nur diejenigen Persone
 
 -   [ ] Fähigkeit, Daten zu analysieren und Schlussfolgerungen zu ziehen. ⌚ 10 min, 🧠🧠🧠
 -   [ ] Auswahl von 4-6 passenden Diagrammen für die Auftraggeberin ⌚ 10 min, 🧠🧠🧠
+-   [ ] Erstellen eines Werbeplakates für eine neue Dienstleistung / Produkt, welches aufgrund der Ergebnisse der Umfrage neu lanciert wird. Reflexion von 3 ganzen Sätzen im Projektjournal. ⌚ 20min, 🧠🧠🧠
 
-Stellen Sie sicher, dass alle Umfrageergebnisse von allen 25 Personen gesammelt wurden. Überprüfen Sie die Daten auf Vollständigkeit und Korrektheit. Entfernen Sie ungültige oder unvollständige Antworten.Analysieren Sie die Daten, um Trends, Muster oder auffällige Ergebnisse zu identifizieren. Entscheiden Sie, welche Art von Diagrammen oder Grafiken (z.B. Balkendiagramme, Tortendiagramme, Liniendiagramme) aus Findmind am besten geeignet sind, um die Ergebnisse darzustellen. Stellen Sie die Ergebnisse in den Kontext der ursprünglichen Fragestellungen der Umfrage. Erklären Sie, was die Ergebnisse bedeuten und warum sie wichtig sind.
+Stellen Sie sicher, dass alle Umfrageergebnisse von allen 25 Personen gesammelt wurden. Überprüfen Sie die Daten auf Vollständigkeit und Korrektheit. Entfernen Sie ungültige oder unvollständige Antworten. Analysieren Sie die Daten, um Trends, Muster oder auffällige Ergebnisse zu identifizieren. Entscheiden Sie, welche Art von Diagrammen oder Grafiken (z.B. Balkendiagramme, Tortendiagramme, Liniendiagramme) aus Findmind am besten geeignet sind, um die Ergebnisse darzustellen. Stellen Sie die Ergebnisse in den Kontext der ursprünglichen Fragestellungen der Umfrage. Erklären Sie, was die Ergebnisse bedeuten und warum sie wichtig sind. Erstellen Sie ein Werbeplakat für eine Dienstleistung / Produkt, welches aufgrund der Ergebnisse der Umfrage neu gemacht werden sollte. Begründen Sie die Auswahl des Plakates in 2-3 ganzen Sätzen im Projektjournal.
 
 ### 3.2 Resultate präsentieren
 
--   [ ] Erstellen Sie eine Präsentation von 6 Minuten, welche 6 Folien umfasst und die Fragestellung des Unternehmens beantwortet. ⌚ 20min, 🧠🧠🧠
--   [ ] Präsentieren Sie Ihre Resultate vor dem Unternehmen. ⌚ 5 min, 🧠🧠
+-   [ ] Erstellen Sie eine Präsentation von 6 Minuten, welche 6 Folien umfasst und die Fragestellung des Unternehmens beantwortet sowie ihr Werbeplakat vorstellt. ⌚ 20min, 🧠🧠🧠
+-   [ ] Präsentieren Sie Ihre Resultate vor dem Unternehmen. ⌚ 6min, 🧠🧠
 
-Sie müssen Ihre Resultate in einer stimmigen Powerpointpräsentation dem Unternehmen präsentieren. Die Präsentation darf maximal 6 Minuten dauern und 6 Folien umfassen. Beginnen Sie mit einer Einführung in das Projekt und die Ziele der Umfrage. Führen Sie dann die wichtigsten Ergebnisse auf und enden Sie mit einer Zusammenfassung und möglichen Empfehlungen. Nutzen Sie die erstellten Diagramme und Grafiken, um Ihre Punkte visuell zu unterstützen.Üben Sie die Präsentation, um sicherzustellen, dass die Botschaft klar und überzeugend übermittelt wird. Achten Sie auf eine klare Sprache und eine logische Struktur. Speichern Sie Ihre Präsentation so ab, dass Sie diese später wieder finden.
+Sie müssen Ihre Resultate in einer stimmigen Powerpointpräsentation dem Unternehmen präsentieren. Die Präsentation darf maximal 6 Minuten dauern und 6 Folien umfassen. Beginnen Sie mit einer Einführung in das Projekt und die Ziele der Umfrage. Führen Sie dann die wichtigsten Ergebnisse auf und enden Sie mit einer Zusammenfassung und möglichen Empfehlungen. Nutzen Sie die erstellten Diagramme und Grafiken, um Ihre Punkte visuell zu unterstützen. Üben Sie die Präsentation, um sicherzustellen, dass die Botschaft klar und überzeugend übermittelt wird. Achten Sie auf eine klare Sprache und eine logische Struktur. Speichern Sie Ihre Präsentation so ab, dass Sie diese später wieder finden.
 
-Praktische Tipps:
+**Praktische Tipps:**
 
 -   Legen Sie einen Fokus auf die Geschichte, die die Daten erzählen. Was ist die Hauptbotschaft, die Sie vermitteln möchten?
 -   Betonen Sie die Bedeutung der Ergebnisse für den Auftraggeber und mögliche nächste Schritte.
@@ -352,12 +353,12 @@ Praktische Tipps:
 
 ## 4. Selbstbeurteilung und Abgabe
 
-Füllen Sie die Selbstbeurteilung für ihr Projekt gemeinsam als Gruppe aus. Dies wird Ihre finale Note sein. (EInsprachemöglichkeit von Hr. Füglister). Überprüfen Sie anschliessend ob ihr Projektjournal vollständig ist. Laden Sie zuletzt die folgenden Dokumente in den Teamsauftrag:
+Füllen Sie die Selbstbeurteilung für ihr Projekt gemeinsam als Gruppe aus. Dies wird Ihre finale Note sein. (Einsprachemöglichkeit von Hr. Füglister). Überprüfen Sie anschliessend ob ihr Projektjournal vollständig ist. Laden Sie zuletzt die folgenden Dokumente in den Teamsauftrag:
 
 -   Vollständiges Projektjournal (inkl. Selbstbewertung)
 
 -   Elevator Pitch
 
--   Titelseite (Homepage) Ihrer Werbeagentur
+-   Titelseite (Homepage) Ihrer Werbeagentur mit Logo
 
--   Fertige Präsentation
+-   Fertige Präsentation mit allen Diagrammen und Werbeplakat

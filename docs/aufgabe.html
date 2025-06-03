@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
+<meta name="generator" content="quarto-1.4.555">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -22,7 +22,7 @@ ul.task-list li input[type="checkbox"] {
 }
 /* CSS for syntax highlighting */
 pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span { line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
@@ -79,7 +79,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -88,8 +94,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -101,9 +109,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Werbeagentur gründen</span>
     </a>
@@ -115,17 +123,17 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./aufgabe.html" rel="" target="" aria-current="page">
- <span class="menu-text">Aufgabe</span></a>
+    <a class="nav-link active" href="./aufgabe.html" aria-current="page"> 
+<span class="menu-text">Aufgabe</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -142,7 +150,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#agentur-gründen-und-auftrag-erhalten" id="toc-agentur-gründen-und-auftrag-erhalten" class="nav-link" data-scroll-target="#agentur-gründen-und-auftrag-erhalten">1. Agentur gründen und Auftrag erhalten</a>
   <ul class="collapse">
   <li><a href="#gruppe-bilden" id="toc-gruppe-bilden" class="nav-link" data-scroll-target="#gruppe-bilden">1.1 Gruppe bilden</a></li>
-  <li><a href="#was-macht-eine-social-mediamarketingagenturr" id="toc-was-macht-eine-social-mediamarketingagenturr" class="nav-link" data-scroll-target="#was-macht-eine-social-mediamarketingagenturr">1.2 Was macht eine Social Media/Marketingagenturr?</a></li>
+  <li><a href="#was-macht-eine-social-mediamarketingagentur" id="toc-was-macht-eine-social-mediamarketingagentur" class="nav-link" data-scroll-target="#was-macht-eine-social-mediamarketingagentur">1.2 Was macht eine Social Media/Marketingagentur?</a></li>
   <li><a href="#wie-heisst-ihre-social-media-agentur" id="toc-wie-heisst-ihre-social-media-agentur" class="nav-link" data-scroll-target="#wie-heisst-ihre-social-media-agentur">1.3 Wie heisst ihre Social-Media-Agentur?</a></li>
   <li><a href="#designen-sie-ein-logo-für-ihre-agentur" id="toc-designen-sie-ein-logo-für-ihre-agentur" class="nav-link" data-scroll-target="#designen-sie-ein-logo-für-ihre-agentur">1.4 Designen Sie ein Logo für Ihre Agentur</a></li>
   <li><a href="#erstellen-sie-eine-neue-homepage-für-ihre-agentur" id="toc-erstellen-sie-eine-neue-homepage-für-ihre-agentur" class="nav-link" data-scroll-target="#erstellen-sie-eine-neue-homepage-für-ihre-agentur">1.5 Erstellen Sie eine neue Homepage für Ihre Agentur</a></li>
@@ -187,27 +195,38 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   </div>
   
 
+
 </header>
+
 
 <section id="vorgehen-und-lernprodukte" class="level2">
 <h2 class="anchored" data-anchor-id="vorgehen-und-lernprodukte">0. Vorgehen und Lernprodukte</h2>
 <p>In den nächsten Wochen übernehmen Sie zu zweit oder dritt die Rolle einer Social-Media/Marketing Agentur und müssen selbständig ein Projekt für eine Auftraggeberin durchführen. Dieses Projekt im 2. Semester ihrer Ausbildung ist in mehrere Teilaufgaben aufgeteilt. Hier ein Überblick:</p>
-<p><img src="images/bild5.jpg" id="fig-bild2" class="img-fluid"></p>
-<p>Halten Sie sich genau an die Anweisungen. Gehen Sie Schritt für Schritt vor und bearbeiten Sie die folgenden Aufgaben. <em>Achten Sie darauf, dass Sie regelmässig Sicherheitskopien ihrer Arbeit anfertigen.</em></p>
-<p>Neben dieser Homepage sind für Sie folgende Infos und Dokumente wichtig:</p>
+<div id="fig-bild2" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-bild2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="images/bild5.jpg" id="fig-bild2" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig quarto-uncaptioned" id="fig-bild2-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1
+</figcaption>
+</figure>
+</div>
+<p>Halten Sie sich genau an die Anweisungen. Gehen Sie Schritt für Schritt vor und bearbeiten Sie die folgenden Aufgaben. <em>Achten Sie darauf, dass Sie regelmässig Sicherheitskopien ihrer Arbeit anfertigen.</em> Es ist normal, dass die Zeit äusserst knapp bemessen ist. Sie können die Aufgabe nur lösen, wenn Sie sich perfekt organisieren, die Arbeit fair aufteilen und das Tool ChatGPT optimal nutzen.</p>
+<p>Neben dieser Homepage sind für Sie folgende Informationen und Dokumente wichtig:</p>
 <ul>
 <li><a href="docs/Projektjournal.docx">Projektjournal</a></li>
 <li><a href="docs/Vertrag_Fies.docx">Vertragsentwurf</a></li>
-<li>Teamsauftrag “Projekt” für die Abgabe</li>
-<li><a href="https://forms.office.com/e/c5X7LxLLUY">Selbstbeurteilung</a></li>
+<li>Teamsauftrag “Projekt” für die finale Abgabe</li>
+<li><a href="docs/Bewertungskriterien.docx">Selbstbeurteilung</a></li>
 </ul>
-<p>⌚ = bezeichnet die Zeit, welche Sie ungefähr für die Erledigung der Teilschritte des Projektes benötigen. Beachten Sie, dass Sie keine zusätzliche Zeit für die Erledigung der Aufgabe im Unterricht erhalten werden. Eine fortlaufende Bearbeitung des Projektes ist äusserst wichtig.</p>
+<p>⌚ = bezeichnet die Zeit, welche Sie ungefähr für die Erledigung der Teilschritte des Projektes benötigen. Beachten Sie, dass Sie ausserhalb der vorgegebenen Zeit keine zusätzliche Zeit für die Erledigung der Aufgabe im Unterricht erhalten werden. Eine fortlaufende Bearbeitung des Projektes ist äusserst wichtig.</p>
 <p>🧠 = bezeichnet die Schwierigkeit der Aufgabe. (🧠 = eher einfach, 🧠🧠🧠 = sehr schwierig)</p>
 <p><strong>Am Ende sollten Sie folgende Lernprodukte haben:</strong></p>
 <ul>
-<li>Eine eigene Social Media Agentur mit passendem Namen, Logo und einer Titelseite einer eigener Homepage erstellt haben.</li>
-<li>Einen Auftrag professionell bearbeitet haben (inkl. E-Mails und Elevator Pitch) und eine Umfrage mit mindestens 25 Personen durchgeführt haben.</li>
-<li>Ein Projektjournal mit eigenen Reflexionen nachgeführt haben.</li>
+<li>Eine eigene Social Media Agentur mit passendem Namen, Logo und einer Titelseite einer eigenen persönlichen Homepage erstellt haben.</li>
+<li>Einen Auftrag professionell bearbeitet haben (inkl. E-Mails und persönlichem Elevator Pitch) und eine Umfrage mit mindestens 25 Personen durchgeführt haben.</li>
+<li>Ein Projektjournal mit eigenen authentischen Reflexionen nachgeführt haben.</li>
 <li>Eine Präsentation der Erkenntnisse der Umfrage vorbereitet haben.</li>
 <li>Eine Selbstbeurteilung des eigenen Projektes vorgenommen haben.</li>
 </ul>
@@ -218,63 +237,67 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="gruppe-bilden" class="level3">
 <h3 class="anchored" data-anchor-id="gruppe-bilden">1.1 Gruppe bilden</h3>
 <ul class="task-list">
-<li><input type="checkbox">Sämtliche Lernende in der Klasse gehören einer Gruppe an. ⌚ 5min, 🧠</li>
+<li><label><input type="checkbox">Sämtliche Lernende in der Klasse gehören einer Gruppe an. ⌚ 5min, 🧠</label></li>
 </ul>
 <p>Schliessen Sie sich zu Gruppen von zwei oder maximal drei Personen zusammen (KEINE Vierergruppe).</p>
 </section>
-<section id="was-macht-eine-social-mediamarketingagenturr" class="level3">
-<h3 class="anchored" data-anchor-id="was-macht-eine-social-mediamarketingagenturr">1.2 Was macht eine Social Media/Marketingagenturr?</h3>
+<section id="was-macht-eine-social-mediamarketingagentur" class="level3">
+<h3 class="anchored" data-anchor-id="was-macht-eine-social-mediamarketingagentur">1.2 Was macht eine Social Media/Marketingagentur?</h3>
 <ul class="task-list">
-<li><input type="checkbox">Bescheid wissen, was eine Socia-Media/Marketing-Agentur macht. ⌚ 10min, 🧠</li>
+<li><label><input type="checkbox">Bescheid wissen, was eine Social-Media/Marketing-Agentur macht. ⌚ 10min, 🧠</label></li>
 </ul>
-<p>Schauen Sie sich das Videos über den Tagesablauf von Viet Pham Tuan, Gründer einer Social-Media/Marketing Agentur an. Wie sieht sein Tagesablauf aus?</p>
+<p>Schauen Sie sich das Video über den Tagesablauf von Viet Pham Tuan, Gründer einer Social-Media/Marketing Agentur an. Wie sieht sein Tagesablauf aus?</p>
 <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/1XqZE2gSALc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <p>Für diese Aufgabe wird von Ihnen erwartet, dass Sie lernen mit ChatGPT produktiv zu arbeiten. Sie werden feststellen, dass Sie ChatGPT für ganz unterschiedliche Aufgaben benutzen können. Zum Beispiel können Sie sich weitere Infos zur Frage oben generieren lassen: Welche Aufgaben übernimmt eine Social-Media/Marketing Agentur? Übertragen Sie die folgende Eingabe (Prompt) für ChatGPT, indem Sie zuerst auf “Zeige den ChatGPT-Prompt” drücken und dann auf “Copy to Clipboard” drücken.</p>
-<div id="fig-bild1" class="quarto-figure quarto-figure-center anchored">
-<figure class="figure">
-<p><img src="bild1.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Figure&nbsp;1: Rüberkopieren</figcaption>
+<div id="fig-bild1" class="quarto-figure quarto-figure-center quarto-float anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-bild1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="bild1.png" class="img-fluid figure-img">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-bild1-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: Hinüberkopieren
+</figcaption>
 </figure>
 </div>
 <p>Anschliessend loggen Sie sich in ChatGPT ein und kopieren den Prompt direkt in das Eingabefenster.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="bild2.png" class="img-fluid figure-img"></p>
-<figcaption class="figure-caption">Einfügen</figcaption>
+<figcaption>Einfügen</figcaption>
 </figure>
 </div>
 <p>Hier finden Sie den ersten Prompt:</p>
 <div class="cell">
-<details>
+<details class="code-fold">
 <summary>Zeige den ChatGPT-Prompt</summary>
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="st">"Du bist jetzt ein Marketing und Social-Media Experte. Erkläre mir möglichst einfach und klar was eine Social-Media/Marketing Agentur macht. Zielgruppe sind 16jährige Lernende"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="st">"Du bist jetzt ein Marketing und Social-Media Experte. Erkläre mir möglichst einfach und klar was eine Social-Media/Marketing Agentur macht. Zielgruppe sind 16-jährige Lernende"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
 </section>
 <section id="wie-heisst-ihre-social-media-agentur" class="level3">
 <h3 class="anchored" data-anchor-id="wie-heisst-ihre-social-media-agentur">1.3 Wie heisst ihre Social-Media-Agentur?</h3>
 <ul class="task-list">
-<li><input type="checkbox">Einen passenden Namen für die eigenen Agentur finden.⌚ 15min, 🧠🧠</li>
-<li><input type="checkbox">Begründen Sie mit 4 ganzen Sätzen im Reflexionsjournal wieso Sie den Namen ausgewählt haben.⌚ 5min, 🧠🧠</li>
+<li><label><input type="checkbox">Einen passenden Namen für die eigenen Agentur finden.⌚ 15min, 🧠🧠</label></li>
+<li><label><input type="checkbox">Begründen Sie mit 4 ganzen und persönlichen Sätzen im Reflexionsjournal wieso Sie den Namen ausgewählt haben.⌚ 5min, 🧠🧠</label></li>
 </ul>
-<p>Wählen Sie einen passenden Namen für ihre Social Media-Agentur. Der Name sollte frisch, spannend und kreativ sein sowie Ihre Identität als Gruppe/Agentur ausdrücken. Sie können sich dabei durch ChatGPT unterstützen lassen. Unten finden Sie eine möglichen Prompt (Eingabe), welche Sie verwenden können. Experimentieren Sie mit dem Prompt und denken Sie daran, dass Sie ihre Auswahl auch begründen müssen.</p>
+<p>Wählen Sie einen passenden Namen für ihre Social Media-Agentur. Der Name sollte frisch, spannend und kreativ sein sowie Ihre Identität als Gruppe/Agentur klar ausdrücken. Sie können sich dabei durch ChatGPT unterstützen lassen. Unten finden Sie einen möglichen Prompt (Eingabe), welche Sie verwenden können. Experimentieren Sie mit dem Prompt und denken Sie daran, dass Sie ihre Auswahl auch begründen müssen.</p>
 <div class="cell">
-<details>
+<details class="code-fold">
 <summary>Zeige den ChatGPT-Prompt</summary>
-<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="st">"Du bist jetzt ein Marketing Experte. Erstelle uns passende Namen für eine neue Werbeagentur. Uns ist besonders wichtig, unsere Stärken sind, dass wir besonders gute Teamplayer sind."</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="st">"Du bist jetzt ein Marketing Experte. Erstelle uns passende Namen für eine neue Werbeagentur. Uns ist besonders wichtig, dass unsere Stärke ist, dass wir besonders gute Teamplayer sind."</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
 </section>
 <section id="designen-sie-ein-logo-für-ihre-agentur" class="level3">
 <h3 class="anchored" data-anchor-id="designen-sie-ein-logo-für-ihre-agentur">1.4 Designen Sie ein Logo für Ihre Agentur</h3>
 <ul class="task-list">
-<li><input type="checkbox">Designen Sie ein Logo für Ihre Agentur. ⌚ 15min, 🧠🧠</li>
-<li><input type="checkbox">Begründen Sie mit 3 ganzen Sätzen im Reflexionsjournal wieso Sie das Logo ausgewählt haben. ⌚ 5min, 🧠🧠</li>
+<li><label><input type="checkbox">Designen Sie ein Logo für Ihre Agentur. ⌚ 15min, 🧠🧠</label></li>
+<li><label><input type="checkbox">Begründen Sie mit 3 ganzen Sätzen im Reflexionsjournal wieso Sie das Logo ausgewählt haben. ⌚ 5min, 🧠🧠</label></li>
 </ul>
-<p>Designen Sie ein Logo. Sie können das Logo entweder selber gestalten oder mit dem folgenden Tool <a href="https://huggingface.co/spaces/playgroundai/playground-v2.5">Playground</a> (ohne Registrierung möglich). Sie können das Logo auch mit ChatGPT erstellen. Speichern Sie das Logo ab. Es muss professionell aussehen. Wie man passende Eingaben erstellt finden Sie unter: <a href="https://stable-diffusion-art.com/prompt-guide/">Tutorial</a></p>
+<p>Designen Sie ein Logo. Sie können das Logo entweder selbst gestalten oder mit dem folgenden Tool <a href="https://huggingface.co/spaces/playgroundai/playground-v2.5">Playground</a> (ohne Registrierung möglich). Sie können das Logo auch mit ChatGPT erstellen. Speichern Sie das Logo ab. Es muss professionell aussehen. Wie man passende Eingaben erstellt finden Sie unter: <a href="https://stable-diffusion-art.com/prompt-guide/">Tutorial</a></p>
 <p>Sie können sich wiederum Hilfe von ChatGPT holen.</p>
 <div class="cell">
-<details>
+<details class="code-fold">
 <summary>Zeige den ChatGPT-Prompt</summary>
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="st">"Du bist jetzt ein Marketing Experte. Unsere Werbeagentur heisst HierstehtderNameihrerWerbeagentur. Wie könnte ein mögliches Logo ausschauen? Beschreibe das Logo möglichst genau und begründe die Auswahl des Logos ausführlich. Erstelle anschliessend ein passendes Logo"</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
@@ -283,9 +306,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="erstellen-sie-eine-neue-homepage-für-ihre-agentur" class="level3">
 <h3 class="anchored" data-anchor-id="erstellen-sie-eine-neue-homepage-für-ihre-agentur">1.5 Erstellen Sie eine neue Homepage für Ihre Agentur</h3>
 <ul class="task-list">
-<li><p><input type="checkbox">Grundkenntnisse in HTML erwerben. ⌚ 30min, 🧠🧠🧠</p></li>
-<li><p><input type="checkbox">Eine Titelseite einer Homepage erstellen: Startseite mit Begrüssung und Logo, unser Team und Stärken, unsere Leistungen. Hier <a href="https://ramonfueglister.github.io/schreinerei/index.html">ein Beispiel</a> ⌚ 45min, 🧠🧠</p></li>
-<li><p><input type="checkbox">Probleme und Erfolgserlebnisse im Projektjournal in 4 Sätzen aufgeschrieben. ⌚ 10min, 🧠🧠</p></li>
+<li><p><label><input type="checkbox">Grundkenntnisse in HTML erwerben. ⌚ 30min, 🧠🧠🧠</label></p></li>
+<li><p><label><input type="checkbox">Eine Titelseite einer Homepage erstellen: Startseite mit Begrüssung und Logo, unser Team und Stärken, unsere Leistungen. Hier <a href="https://ramonfueglister.github.io/schreinerei/index.html">ein Beispiel</a> ⌚ 45min, 🧠🧠</label></p></li>
+<li><p><label><input type="checkbox">Probleme und Erfolgserlebnisse im Projektjournal in 4 Sätzen aufgeschrieben. ⌚ 10min, 🧠🧠</label></p></li>
 </ul>
 <p>Homepages sind ein wichtiges Aushängeschild für jedes Unternehmen. Deshalb ist es sehr wichtig, dass auch ihre Agentur nicht nur ein Logo hat, sondern auch eine eigene Homepage. Homepages sind in der einfachsten Form nicht viel anderes als Textseiten, welche mit zusätzlichen Auszeichnungen versehen werden, um beispielsweise eine Schrift fett darzustellen oder ein Wort als Titel festzulegen. Eine solche Auszeichnung (“Tag”, erkennbar an &lt;&gt; und dem abschliessenden &lt;/&gt;) kann beispielsweise &lt;br&gt;<br> sein. Alles was zwischen den Tags &lt;br&gt; &lt;/br&gt; steht wird automatisch fett geschrieben.Diese Sammlung von Auszeichnungen stellt eine eigene Sprache dar und heisst HTML. Eine erste HTML-Textseite haben Sie schnell erstellt (hier auch eine kurze <a href="docs/HTML.pptx">Präsentation</a> dazu):</p>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
@@ -368,23 +391,23 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </div>
 </div>
 </div>
-<p>Hier sehen Sie, dass beispielsweise der Tag ‘h1’ einen Text als Titel auszeichnet. Eine solche Homepage ist aber noch recht anspruchslos. Eine Homepage hat häufig mehrere Seiten, Bilder und ist mit einander über sogenannte Links verbunden. Eine Anleitung wie man komplexere Homepages baut finden Sie unter <a href="https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg">SelfHTML</a>. Natürlich können Sie sich auch wieder bei ChatGPT Hilfe holen. Hier ein paar Ideen. Hier können Sie sich den Beispielcode für eine Startseite ausgeben lassen:</p>
+<p>Hier sehen Sie, dass beispielsweise der Tag ‘h1’ einen Text als Titel auszeichnet. Eine solche Homepage ist aber noch recht anspruchslos. Eine Homepage hat häufig mehrere Seiten, Bilder und ist miteinander über sogenannte Links verbunden. Eine Anleitung wie man komplexere Homepages baut finden Sie unter <a href="https://wiki.selfhtml.org/wiki/HTML/Tutorials/Einstieg">SelfHTML</a>. Natürlich können Sie sich auch wieder bei ChatGPT Hilfe holen. Hier ein paar Ideen. Hier können Sie sich den Beispielcode für eine Startseite ausgeben lassen:</p>
 <div class="cell">
-<details>
+<details class="code-fold">
 <summary>Zeige den ChatGPT-Prompt</summary>
 <div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="st">"Du bist jetzt ein Webprogrammierer.Wir möchte eine Startseite in HTML bauen. Gib mir den Code für eine Startseite aus und kommentiere ausführlich. </span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
 <p>Sie wissen nicht wie etwas im HTML-Code funktioniert. Fragen Sie nach:</p>
 <div class="cell">
-<details>
+<details class="code-fold">
 <summary>Zeige den ChatGPT-Prompt</summary>
 <div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="st">"Du bist jetzt ein Webprogrammierer.Wie erstelle ich einen Link in HTML?. </span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
 <p>Sie möchten Ihre Homepage weiter verbessern und brauchen Anregungen:</p>
 <div class="cell">
-<details>
+<details class="code-fold">
 <summary>Zeige den ChatGPT-Prompt</summary>
 <div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="st">"Du bist jetzt ein Webprogrammierer.Ich möchte unsere Homepage schöner machen. Wie könnte ich das machen. Hier ist der Code:...</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
@@ -394,11 +417,11 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="auftrag-auswählen" class="level3">
 <h3 class="anchored" data-anchor-id="auftrag-auswählen">1.6 Auftrag auswählen</h3>
 <ul class="task-list">
-<li><input type="checkbox">Ein Unternehmen und den dazugehörigen Auftrag auswählen. ⌚ 10min, 🧠</li>
-<li><input type="checkbox">in 3 ganzen Sätzen in ihrem Projektjournal begründen, wieso Sie gerade dieses Unternehmen ausgewählt haben. ⌚ 10min, 🧠🧠</li>
-<li><input type="checkbox">in ihrem Projektjournal stichwortartig (mindestens 10 Stichwörter) erklären, was die genauen Anforderungen des Unternehmens sind (Auftrag). ⌚ 5 min, 🧠🧠</li>
+<li><label><input type="checkbox">Ein Unternehmen und den dazugehörigen Auftrag auswählen. ⌚ 10min, 🧠</label></li>
+<li><label><input type="checkbox">in 3 ganzen Sätzen in ihrem Projektjournal begründen, wieso Sie gerade dieses Unternehmen ausgewählt haben. ⌚ 10min, 🧠🧠</label></li>
+<li><label><input type="checkbox">in ihrem Projektjournal stichwortartig (mindestens 10 Stichwörter) erklären, was die genauen Anforderungen des Unternehmens sind (Auftrag). ⌚ 5 min, 🧠🧠</label></li>
 </ul>
-<p>Nachdem Sie ein Logo erstellt haben und eine professionelle Homepage haben, sind Sie startklar für ihren ersten Auftrag. Auf Social Media sind sie auf folgende Kontakte von Unternehmen gestossen. Wählen Sie eines der folgenden Unternehmen mit dem entsprechenden Auftrag aus und schauen Sie das dazugehörige Video an. Machen Sie sich klar was genau die Anforderungen des Auftrags sind.Die Unternehmen und Personen sind fiktive Beispiele und wurden mit Video/Audiogeneratoren erzeugt.Die geäusserten Meinungen entsprechen nicht realen Beispielen, sondern dienen ausschliesslich zu Übungszwecken.</p>
+<p>Nachdem Sie ein Logo erstellt haben und eine professionelle Homepage haben, sind Sie als neue Werbeagentur startklar für ihren ersten Auftrag. Auf Social Media sind sie auf folgende Kontakte von Unternehmen gestossen. Wählen Sie eines der folgenden Unternehmen mit dem entsprechenden Auftrag aus und schauen Sie das dazugehörige Video an. Machen Sie sich klar<em>, was genau die Anforderungen des Auftrags sind</em>. Die Unternehmen und Personen sind fiktive (erfundene) Beispiele und wurden mit Video/Audiogeneratoren erzeugt.Die geäusserten Meinungen entsprechen nicht realen Beispielen, sondern dienen ausschliesslich zu Übungszwecken.</p>
 <p><strong>Antonio Di Maggio, Geschäftsführer des ‘Veganer Verein Schweiz (VVS)’</strong> </p><div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/sNgBGy9L2CE" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><br>
 <p></p>
 <p><strong>Dr.&nbsp;Dafina Müller, Zahnärztin und Leiterin des Verbandes der Zahnärztinnen der Schweiz</strong> </p><div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/DoDd9OAO6Vs" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><br>
@@ -409,19 +432,19 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="bewerbung-für-den-auftrag-schreiben" class="level3">
 <h3 class="anchored" data-anchor-id="bewerbung-für-den-auftrag-schreiben">1.7 Bewerbung für den Auftrag schreiben</h3>
 <ul class="task-list">
-<li><input type="checkbox">sich professionell für den Auftrag beim Unternehmen ihrer Wahl bewerben.⌚ 25min, 🧠🧠</li>
-<li><input type="checkbox">ein Feedback zu ihrer E-Mail holen mithilfe von fiete.ai.⌚ 25min, 🧠🧠</li>
-<li><input type="checkbox">beim E-Mail ein kurzes Elevator-Pitch Video anfügen, welches Ihre Motivation und das Team der Werbeagentur vorstellt. ⌚ 30min, 🧠🧠</li>
-<li><input type="checkbox">in 2 Sätzen im Projektjournal festhalten, welche Schwerpunkte Sie im Elevator Pitch ausgewählt haben. ⌚ 5 min, 🧠🧠</li>
+<li><label><input type="checkbox">sich professionell für den Auftrag beim Unternehmen ihrer Wahl bewerben.⌚ 25min, 🧠🧠</label></li>
+<li><label><input type="checkbox">ein Feedback zu ihrer E-Mail holen mithilfe von fiete.ai.⌚ 25min, 🧠🧠</label></li>
+<li><label><input type="checkbox">beim E-Mail ein kurzes Elevator-Pitch Video anfügen, welches Ihre Motivation und das Team der Werbeagentur vorstellt. ⌚ 30min, 🧠🧠</label></li>
+<li><label><input type="checkbox">in 2 Sätzen im Projektjournal festhalten, welche Schwerpunkte Sie im Elevator Pitch ausgewählt haben. ⌚ 5 min, 🧠🧠</label></li>
 </ul>
-<p>Erstellen Sie ein professionelles Geschäfts-E-Mail und bewerben Sie sich für den Auftrag beim entsprechenden Unternehmen. In ihrem E-Mail beschreiben Sie ganz kurz ihre Motivation, ihre Kenntnisse für den Auftrag und gehen Sie auf die genauen Bedürfnisse der Auftraggeberin ein. Stellen Sie sich ausserdem professionell in einem 1-minütigen Elevator-Pitch als Team vor. Ein Elevator Pitch ist eine kurze, prägnante Präsentation einer Idee, die innerhalb der Dauer einer Fahrstuhlfahrt (daher der Name “Elevator” für Fahrstuhl und “Pitch” für Verkaufsgespräch) überzeugend dargelegt wird, typischerweise in 30 Sekunden bis 2 Minuten. Das Ziel ist es, das Interesse des Zuhörers zu wecken, sei es ein potenzieller Kunde, Investor oder Partner, um eine weiterführende Diskussion oder ein Meeting zu erreichen. Ihr Elevator Pitch kann folgende folgende Elemente enthalten: Wer sind wir, Stärken der Personen, unsere Vision, wieso wir für die Firma arbeiten wollen. Gehen Sie zuerst auf die folgende Homepage Fiete.AI und reichen Sie dort ihr E-Mail ein, um ein kurzes <a href="https://app.fiete.ai/a/clt78tpt502pbod0199uzijqg">Feedback zu erhalten.</a> Nachdem Sie ein Feedback erhalten, haben fügen Sie das fertige E-Mail in ihr Projektjournal ein. Beachten Sie, dass der Elevator Pitch zusätzlich an den fertigen Teamsauftrag angehängt werden muss.</p>
+<p>Erstellen Sie ein professionelles Geschäfts-E-Mail und bewerben Sie sich für den Auftrag beim entsprechenden Unternehmen. In ihrem E-Mail beschreiben Sie ganz kurz ihre Motivation, ihre Kenntnisse für den Auftrag und gehen Sie auf die genauen Bedürfnisse der Auftraggeberin ein. Stellen Sie sich ausserdem professionell in einem 1-minütigen Elevator-Pitch als Team vor. Ein Elevator Pitch ist eine kurze, prägnante Präsentation einer Idee, die innerhalb der Dauer einer Fahrstuhlfahrt (daher der Name “Elevator” für Fahrstuhl und “Pitch” für Verkaufsgespräch) überzeugend dargelegt wird, typischerweise in 30 Sekunden bis 2 Minuten. Das Ziel ist es, das Interesse des Zuhörers zu wecken, sei es ein potenzieller Kunde, Investor oder Partner, um eine weiterführende Diskussion oder ein Meeting zu erreichen. Ihr Elevator Pitch kann folgende Elemente enthalten: Wer sind wir, Stärken der Personen, unsere Vision, wieso wir den Auftrag von Fr.&nbsp;Müller, Herr Di Maggio oder Frau Wellenreiter (nur einen Auftrag wählen) übernehmen wollen. Gehen Sie zuerst auf die folgende Homepage Fiete.AI und reichen Sie dort ihr E-Mail ein, um ein kurzes <a href="https://app.fiete.ai/a/clt78tpt502pbod0199uzijqg">Feedback zu erhalten.</a> Nachdem Sie ein Feedback erhalten, haben fügen Sie das fertige E-Mail in ihr Projektjournal ein. Beachten Sie, dass der Elevator Pitch zusätzlich an den fertigen Teamsauftrag angehängt werden muss.</p>
 </section>
 <section id="vertragsverhandlungen-führen" class="level3">
 <h3 class="anchored" data-anchor-id="vertragsverhandlungen-führen">1.8 Vertragsverhandlungen führen</h3>
 <ul class="task-list">
-<li><input type="checkbox">eine Vertragsverhandlung mit Frau Fies führen um ihr Honorar für das Projekt zu verhandeln. ⌚ 20min, 🧠🧠🧠</li>
-<li><input type="checkbox">2 Erkenntnisse notieren, welche Ihnen bei der Vertragsverhandlung gekommen sind. ⌚ 5min, 🧠🧠</li>
-<li><input type="checkbox">finalen Preis notieren, welcher bei der Vertragsverhandlung rausgekommen ist. ⌚ 1min, 🧠</li>
+<li><label><input type="checkbox">eine Vertragsverhandlung mit Frau Fies führen um ihr Honorar für das Projekt zu verhandeln. ⌚ 20min, 🧠🧠🧠</label></li>
+<li><label><input type="checkbox">2 Erkenntnisse notieren, welche Ihnen bei der Vertragsverhandlung gekommen sind. ⌚ 5min, 🧠🧠</label></li>
+<li><label><input type="checkbox">finalen Preis notieren, welcher bei der Vertragsverhandlung erzielt wurde. ⌚ 1min, 🧠</label></li>
 </ul>
 <p>Nachdem Sie die Zusage für den Auftrag erhalten haben, geht es noch darum ihr Honorar (Ihr Lohn) für das Projekt zu verhandeln. Sie müssen das direkt mit der Leiterin der Kommunikationsabteilung der Auftraggeberin, Fr.&nbsp;Fies, machen. Sie wird sich per Chat bei Ihnen melden. Öffnen Sie <a href="https://chat.openai.com/">ChatGPT</a> und loggen Sie sich ein. Kopieren Sie den folgenden Mega-Prompt in eine neue Unterhaltung und legen Sie los:</p>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
@@ -458,8 +481,8 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="vertragsunterzeichnung" class="level3">
 <h3 class="anchored" data-anchor-id="vertragsunterzeichnung">1.9 Vertragsunterzeichnung</h3>
 <ul class="task-list">
-<li><input type="checkbox">einen Vertrag kritisch prüfen und überarbeiten. ⌚ 20min, 🧠🧠🧠</li>
-<li><input type="checkbox">problematische Punkte in einem Vertrag kritisch im Projektjournal in 5 ganzen Sätzen reflektieren. ⌚ 5min, 🧠🧠</li>
+<li><label><input type="checkbox">einen Vertrag kritisch prüfen und überarbeiten. ⌚ 20min, 🧠🧠🧠</label></li>
+<li><label><input type="checkbox">problematische Punkte in einem Vertrag kritisch im Projektjournal in 5 ganzen Sätzen reflektieren. ⌚ 5min, 🧠🧠</label></li>
 </ul>
 <p>Sobald Sie mit Frau Fies ein Honorar vereinbart haben, können Sie hier einen <a href="docs/Vertrag_Fies.docx">Vertragsentwurf</a> für ihren Auftrag erhalten. Prüfen Sie diesen sorgfältig, tragen Sie die fehlenden Angaben nach und korrigieren Sie mit roter Schriftart im Worddokument diejenigen Stellen, mit denen Sie nicht einverstanden sind, weil Sie zu Ungunsten von ihrer Werbeagentur verfasst wurden. Begründen Sie mindestens zwei Änderungen, welche Sie vorgenommen haben in fünf ganzen Sätzen.</p>
 </section>
@@ -469,27 +492,27 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="wie-erstelle-ich-eine-professionelle-umfrage" class="level3">
 <h3 class="anchored" data-anchor-id="wie-erstelle-ich-eine-professionelle-umfrage">2.1 Wie erstelle ich eine professionelle Umfrage?</h3>
 <ul class="task-list">
-<li><input type="checkbox">Grundwissen zum Thema “Umfrage” repetieren. ⌚ 15min, 🧠🧠🧠</li>
+<li><label><input type="checkbox">Grundwissen zum Thema “Umfrage” repetieren. ⌚ 15min, 🧠🧠🧠</label></li>
 </ul>
-<p>Der Auftrag ist erteilt, der Vertrag unterzeichnet und Sie können loslegen. In der Realität haben Menschen, welche in einer Agentur arbeiten häufig eine Ausbildung im Bereich Marketing, Werbung oder Kommunikation. Es gibt aber auch immer wieder Quereinsteigerinnen. Um den Auftrag durchzuführen zu können, können Sie ihr Grundwissen zum Thema “Umfrage” nochmals repetieren. Sie finden die Folien mit der <a href="docs/1_Theorie_Umfrage.pptx">Theorieen</a> hier.</p>
+<p>Der Auftrag ist erteilt, der Vertrag unterzeichnet und Sie können loslegen. In der Realität haben Menschen, welche in einer Agentur arbeiten häufig eine Ausbildung im Bereich Marketing, Werbung oder Kommunikation. Es gibt aber auch immer wieder Quereinsteigerinnen. Um den Auftrag durchzuführen zu können, können Sie ihr Grundwissen zum Thema “Umfrage” nochmals repetieren. Sie finden die Folien <a href="docs/1_Theorie_Umfrage.pptx">hier</a>.</p>
 </section>
 <section id="erstellen-sie-die-umfrage" class="level3">
 <h3 class="anchored" data-anchor-id="erstellen-sie-die-umfrage">2.2 Erstellen Sie die Umfrage</h3>
 <ul class="task-list">
-<li><input type="checkbox">Erstellen von 12 bis 15 zielgruppengerechte Fragen für eine Umfrage.⌚ 15min, 🧠🧠</li>
+<li><label><input type="checkbox">Erstellen von 12 bis 15 zielgruppengerechte Fragen für eine Umfrage und Notiz im Projektjournal.⌚ 15min, 🧠🧠</label></li>
 </ul>
-<p>Mit ihrem theoretischen Wissen können Sie jetzt eine Umfrage für ihre Auftraggeberin erstellen. Eine Kurzumfrage sollte 12-15 Fragen umfassen und nicht länger als 5-10 Minuten zum Ausfüllen benötigen. Wichtig ist es, dass Sie sich möglichst genau an den Anforderungen der Auftraggeberin orientieren. (Was müssen Sie rausfinden? Wer soll befragt werden?). Notieren Sie die Fragen erstmals in ihrem Projektjournal.</p>
+<p>Mit ihrem theoretischen Wissen können Sie jetzt eine Umfrage für ihre Auftraggeberin erstellen. Eine Kurzumfrage sollte 12-15 Fragen umfassen und nicht länger als 5-10 Minuten zum Ausfüllen benötigen. Wichtig ist es, dass Sie sich möglichst genau an den Anforderungen der Auftraggeberin orientieren. (Was müssen Sie rausfinden? Wer soll genau befragt werden?). Notieren Sie die eigenen Fragen erstmals in ihrem Projektjournal.</p>
 </section>
 <section id="feedback-einholen-von-chatgpt" class="level3">
 <h3 class="anchored" data-anchor-id="feedback-einholen-von-chatgpt">2.3 Feedback einholen von ChatGPT</h3>
 <ul class="task-list">
-<li><input type="checkbox">Feedback holen von ChatGPT ⌚ 5min, 🧠</li>
-<li><input type="checkbox">3 persönliche Gedanken zum Feedback von ChatGPT notieren ⌚ 5min, 🧠</li>
-<li><input type="checkbox">Fragen überarbeiten und im Projektjournal nachtragen ⌚ 5 min, 🧠🧠</li>
+<li><label><input type="checkbox">Feedback holen von ChatGPT ⌚ 5min, 🧠</label></li>
+<li><label><input type="checkbox">3 persönliche Gedanken zum Feedback von ChatGPT notieren ⌚ 5min, 🧠</label></li>
+<li><label><input type="checkbox">Fragen überarbeiten und im Projektjournal nachtragen ⌚ 5 min, 🧠🧠</label></li>
 </ul>
 <p>Überarbeiten Sie die Fragen mit ChatGPT mit dem folgenden Prompt. Sie müssen “Unternehmen X” ersetzen mit dem Unternehmen für welches Sie die Umfrage machen. Ausserdem müssen Sie den Text “hier die Fragen einfügen” löschen und ihre eigenen Fragen einfügen.</p>
 <div class="cell">
-<details>
+<details class="code-fold">
 <summary>Zeige den ChatGPT-Prompt</summary>
 <div class="sourceCode cell-code" id="cb10"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="st">"Du bist jetzt ein Sozialwissenschaftler und Experte für die Erstellung von Umfragen. Wir sollen eine Umfrage für das Unternehmen X machen. Hier sind unsere Ideen für die Umfrage. Erstelle ein kurzes inhaltliches Feedback zu den einzelnen Fragen. Korrigiere anschliessend die folgenden Fragen inhaltlich und in der Rechtschreibung: - hier die Fragen einfügen</span></span>
 <span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a><span class="st">Erstelle anschliessend 10 weitere äusserst professionelle Fragen für unsere Umfragen. Mache die Fragen sprachlich nicht zu kompliziert. Let's verify step by step."</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
@@ -500,16 +523,16 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="womit-kann-ich-eine-professionelle-umfrage-erstellen" class="level3">
 <h3 class="anchored" data-anchor-id="womit-kann-ich-eine-professionelle-umfrage-erstellen">2.4 Womit kann ich eine professionelle Umfrage erstellen?</h3>
 <ul class="task-list">
-<li><input type="checkbox">Sich kurz in die Möglichkeiten von Findmind einlesen.⌚ 10min, 🧠🧠</li>
-<li><input type="checkbox">Erstellen einer Umfrage mit Findmind. ⌚ 15min, 🧠🧠</li>
+<li><label><input type="checkbox">Sich kurz in die Möglichkeiten von Findmind einlesen.⌚ 10min, 🧠🧠</label></li>
+<li><label><input type="checkbox">Erstellen einer Umfrage mit Findmind. ⌚ 15min, 🧠🧠</label></li>
 </ul>
 <p>Es gibt viele Tools um Umfragen zu erstellen, diese sind aber häufig kostenpflichtig. Eine einfache und kostenlose Art um Umfragen zu erstellen bietet Findmind. Hier finden Sie eine Anleitung zu <a href="https://de.findmind.ch/faq/start/">Findmind</a>. Übertragen Sie die jetzt die Fragen in Findmind. Sie müssen sich dazu registrieren, falls Sie dies noch nicht bereits gemacht haben.</p>
 </section>
 <section id="testen-der-umfrage-und-peer-feedback-einholen" class="level3">
 <h3 class="anchored" data-anchor-id="testen-der-umfrage-und-peer-feedback-einholen">2.5 Testen der Umfrage und Peer-Feedback einholen</h3>
 <ul class="task-list">
-<li><input type="checkbox">Testen der Umfrage mit 2 Lernenden aus der Klasse. ⌚ 10min, 🧠🧠</li>
-<li><input type="checkbox">Feedbackformular für das Feedback von den 2 Lernenden ausfüllen lassen. ⌚ 10min, 🧠🧠</li>
+<li><label><input type="checkbox">Testen der Umfrage mit 2 Lernenden aus der Klasse. ⌚ 10min, 🧠🧠</label></li>
+<li><label><input type="checkbox">Feedbackformular für das Feedback von den 2 Lernenden ausfüllen lassen. ⌚ 10min, 🧠🧠</label></li>
 </ul>
 <p>Bevor eine Umfrage gestartet wird, ist es üblich sich von anderen, nicht direkt beteiligten Personen Feedback zu holen. Veröffentlichen Sie deshalb die Umfrage in Findmind. Testen Sie den Fragebogen mit 2 verschiedenen Personen aus der Klasse, ob der Fragebogen so funktioniert wie gewünscht. Stellen Sie den beiden Testpersonen die folgenden Fragen und machen Sie sich stichwortartig Notizen:</p>
 <ul>
@@ -523,12 +546,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <li>Gibt es mögliche Schwachstellen oder Fehler in der Umfrage, die übersehen wurden und wie könnten sie verbessert werden?</li>
 <li>Sind die Fragen für die Zielgruppe angemessen und ansprechend gestaltet? (z.B. sind schwierige Begriffe für ältere/jüngere Menschen zusätzlich erklärt?)</li>
 </ul>
-<p>Fügen Sie Ihre Erkentnnise stichwortartig in das Projektjournal ein.</p>
+<p>Fügen Sie Ihre Erkenntnisse stichwortartig in das Projektjournal ein.</p>
 </section>
 <section id="umfrage-mit-25-personen-durchführen" class="level3">
 <h3 class="anchored" data-anchor-id="umfrage-mit-25-personen-durchführen">2.6 Umfrage mit 25 Personen durchführen</h3>
 <ul class="task-list">
-<li><input type="checkbox">Umfrage durchführen ⌚ ? min, 🧠🧠</li>
+<li><label><input type="checkbox">Umfrage durchführen ⌚ ? min, 🧠🧠</label></li>
 </ul>
 <p>Führen Sie die Umfrage mit 25 Personen durch. Es dürfen nur diejenigen Personen die Umfrage durchführen, welche auch in die Zielgruppe gehören. <strong>Es dürfen keine Kolleginnen aus der Klasse die Umfrage ausführen</strong>. Denken Sie daran, dass die Umfrage ernsthaft ausgefüllt werden muss.</p>
 </section>
@@ -538,19 +561,20 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="resultate-aufbereiten" class="level3">
 <h3 class="anchored" data-anchor-id="resultate-aufbereiten">3.1 Resultate aufbereiten</h3>
 <ul class="task-list">
-<li><input type="checkbox">Fähigkeit, Daten zu analysieren und Schlussfolgerungen zu ziehen. ⌚ 10 min, 🧠🧠🧠</li>
-<li><input type="checkbox">Auswahl von 4-6 passenden Diagrammen für die Auftraggeberin ⌚ 10 min, 🧠🧠🧠</li>
+<li><label><input type="checkbox">Fähigkeit, Daten zu analysieren und Schlussfolgerungen zu ziehen. ⌚ 10 min, 🧠🧠🧠</label></li>
+<li><label><input type="checkbox">Auswahl von 4-6 passenden Diagrammen für die Auftraggeberin ⌚ 10 min, 🧠🧠🧠</label></li>
+<li><label><input type="checkbox">Erstellen eines Werbeplakates für eine neue Dienstleistung / Produkt, welches aufgrund der Ergebnisse der Umfrage neu lanciert wird. Reflexion von 3 ganzen Sätzen im Projektjournal. ⌚ 20min, 🧠🧠🧠</label></li>
 </ul>
-<p>Stellen Sie sicher, dass alle Umfrageergebnisse von allen 25 Personen gesammelt wurden. Überprüfen Sie die Daten auf Vollständigkeit und Korrektheit. Entfernen Sie ungültige oder unvollständige Antworten.Analysieren Sie die Daten, um Trends, Muster oder auffällige Ergebnisse zu identifizieren. Entscheiden Sie, welche Art von Diagrammen oder Grafiken (z.B. Balkendiagramme, Tortendiagramme, Liniendiagramme) aus Findmind am besten geeignet sind, um die Ergebnisse darzustellen. Stellen Sie die Ergebnisse in den Kontext der ursprünglichen Fragestellungen der Umfrage. Erklären Sie, was die Ergebnisse bedeuten und warum sie wichtig sind.</p>
+<p>Stellen Sie sicher, dass alle Umfrageergebnisse von allen 25 Personen gesammelt wurden. Überprüfen Sie die Daten auf Vollständigkeit und Korrektheit. Entfernen Sie ungültige oder unvollständige Antworten. Analysieren Sie die Daten, um Trends, Muster oder auffällige Ergebnisse zu identifizieren. Entscheiden Sie, welche Art von Diagrammen oder Grafiken (z.B. Balkendiagramme, Tortendiagramme, Liniendiagramme) aus Findmind am besten geeignet sind, um die Ergebnisse darzustellen. Stellen Sie die Ergebnisse in den Kontext der ursprünglichen Fragestellungen der Umfrage. Erklären Sie, was die Ergebnisse bedeuten und warum sie wichtig sind. Erstellen Sie ein Werbeplakat für eine Dienstleistung / Produkt, welches aufgrund der Ergebnisse der Umfrage neu gemacht werden sollte. Begründen Sie die Auswahl des Plakates in 2-3 ganzen Sätzen im Projektjournal.</p>
 </section>
 <section id="resultate-präsentieren" class="level3">
 <h3 class="anchored" data-anchor-id="resultate-präsentieren">3.2 Resultate präsentieren</h3>
 <ul class="task-list">
-<li><input type="checkbox">Erstellen Sie eine Präsentation von 6 Minuten, welche 6 Folien umfasst und die Fragestellung des Unternehmens beantwortet. ⌚ 20min, 🧠🧠🧠</li>
-<li><input type="checkbox">Präsentieren Sie Ihre Resultate vor dem Unternehmen. ⌚ 5 min, 🧠🧠</li>
+<li><label><input type="checkbox">Erstellen Sie eine Präsentation von 6 Minuten, welche 6 Folien umfasst und die Fragestellung des Unternehmens beantwortet sowie ihr Werbeplakat vorstellt. ⌚ 20min, 🧠🧠🧠</label></li>
+<li><label><input type="checkbox">Präsentieren Sie Ihre Resultate vor dem Unternehmen. ⌚ 6min, 🧠🧠</label></li>
 </ul>
-<p>Sie müssen Ihre Resultate in einer stimmigen Powerpointpräsentation dem Unternehmen präsentieren. Die Präsentation darf maximal 6 Minuten dauern und 6 Folien umfassen. Beginnen Sie mit einer Einführung in das Projekt und die Ziele der Umfrage. Führen Sie dann die wichtigsten Ergebnisse auf und enden Sie mit einer Zusammenfassung und möglichen Empfehlungen. Nutzen Sie die erstellten Diagramme und Grafiken, um Ihre Punkte visuell zu unterstützen.Üben Sie die Präsentation, um sicherzustellen, dass die Botschaft klar und überzeugend übermittelt wird. Achten Sie auf eine klare Sprache und eine logische Struktur. Speichern Sie Ihre Präsentation so ab, dass Sie diese später wieder finden.</p>
-<p>Praktische Tipps:</p>
+<p>Sie müssen Ihre Resultate in einer stimmigen Powerpointpräsentation dem Unternehmen präsentieren. Die Präsentation darf maximal 6 Minuten dauern und 6 Folien umfassen. Beginnen Sie mit einer Einführung in das Projekt und die Ziele der Umfrage. Führen Sie dann die wichtigsten Ergebnisse auf und enden Sie mit einer Zusammenfassung und möglichen Empfehlungen. Nutzen Sie die erstellten Diagramme und Grafiken, um Ihre Punkte visuell zu unterstützen. Üben Sie die Präsentation, um sicherzustellen, dass die Botschaft klar und überzeugend übermittelt wird. Achten Sie auf eine klare Sprache und eine logische Struktur. Speichern Sie Ihre Präsentation so ab, dass Sie diese später wieder finden.</p>
+<p><strong>Praktische Tipps:</strong></p>
 <ul>
 <li>Legen Sie einen Fokus auf die Geschichte, die die Daten erzählen. Was ist die Hauptbotschaft, die Sie vermitteln möchten?</li>
 <li>Betonen Sie die Bedeutung der Ergebnisse für den Auftraggeber und mögliche nächste Schritte.</li>
@@ -560,12 +584,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 </section>
 <section id="selbstbeurteilung-und-abgabe" class="level2">
 <h2 class="anchored" data-anchor-id="selbstbeurteilung-und-abgabe">4. Selbstbeurteilung und Abgabe</h2>
-<p>Füllen Sie die Selbstbeurteilung für ihr Projekt gemeinsam als Gruppe aus. Dies wird Ihre finale Note sein. (EInsprachemöglichkeit von Hr. Füglister). Überprüfen Sie anschliessend ob ihr Projektjournal vollständig ist. Laden Sie zuletzt die folgenden Dokumente in den Teamsauftrag:</p>
+<p>Füllen Sie die Selbstbeurteilung für ihr Projekt gemeinsam als Gruppe aus. Dies wird Ihre finale Note sein. (Einsprachemöglichkeit von Hr. Füglister). Überprüfen Sie anschliessend ob ihr Projektjournal vollständig ist. Laden Sie zuletzt die folgenden Dokumente in den Teamsauftrag:</p>
 <ul>
 <li><p>Vollständiges Projektjournal (inkl. Selbstbewertung)</p></li>
 <li><p>Elevator Pitch</p></li>
-<li><p>Titelseite (Homepage) Ihrer Werbeagentur</p></li>
-<li><p>Fertige Präsentation</p></li>
+<li><p>Titelseite (Homepage) Ihrer Werbeagentur mit Logo</p></li>
+<li><p>Fertige Präsentation mit allen Diagrammen und Werbeplakat</p></li>
 </ul>
 
 
@@ -651,10 +675,34 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+          // target, if specified
+          link.setAttribute("target", "_blank");
+          if (link.getAttribute("rel") === null) {
+            link.setAttribute("rel", "noopener");
+          }
+          // default icon
+          link.classList.add("external");
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -664,8 +712,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -677,7 +734,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -721,6 +901,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -746,6 +927,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -803,25 +1010,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-          // target, if specified
-          link.setAttribute("target", "_blank");
-          // default icon
-          link.classList.add("external");
-      }
-    }
 });
 </script>
 </div> <!-- /content -->
+
 
 
 
